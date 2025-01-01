@@ -5915,3 +5915,4 @@
 2025-01-01 fix timezone issue [1]
 2025-01-01 hotfix applied [2]
 2025-01-01 improve logging format [3]
+2025-01-01 update docs with examples [4]

@@ -5941,3 +5941,4 @@
 2025-01-01 improve UX [27]
 2025-01-01 fix typo in code [28]
 2025-01-01 clean project structure [29]
+2025-01-01 reduce complexity [30]

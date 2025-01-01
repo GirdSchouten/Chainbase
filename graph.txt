@@ -5932,3 +5932,4 @@
 2025-01-01 fix crash issue [18]
 2025-01-01 security patch [19]
 2025-01-01 add tests [20]
+2025-01-01 change configuration [21]

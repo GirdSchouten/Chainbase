@@ -5923,3 +5923,4 @@
 2025-01-01 optimize function [9]
 2025-01-01 fix typo in code [10]
 2025-01-01 add tests [11]
+2025-01-01 update LICENSE [12]

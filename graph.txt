@@ -16,3 +16,4 @@
 2025-01-02 hotfix applied [16]
 2025-01-02 update schema migration [17]
 2025-01-02 update logging [18]
+2025-01-02 better error handling [19]

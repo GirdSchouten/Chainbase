@@ -15,3 +15,4 @@
 2025-01-02 add logging [15]
 2025-01-02 hotfix applied [16]
 2025-01-02 update schema migration [17]
+2025-01-02 update logging [18]

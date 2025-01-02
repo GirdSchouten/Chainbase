@@ -13,3 +13,4 @@
 2025-01-02 restructure modules [13]
 2025-01-02 clean project structure [14]
 2025-01-02 add logging [15]
+2025-01-02 hotfix applied [16]

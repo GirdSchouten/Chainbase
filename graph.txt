@@ -10222,3 +10222,4 @@
 2025-01-02 better error handling [14]
 2025-01-02 remove deprecated code [15]
 2025-01-02 adjust error messages [16]
+2025-01-02 add changelog [17]

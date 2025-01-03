@@ -5456,3 +5456,4 @@
 2025-01-03 fix bug [39]
 2025-01-03 update CI pipeline [40]
 2025-01-03 remove legacy code [41]
+2025-01-03 change configuration [42]

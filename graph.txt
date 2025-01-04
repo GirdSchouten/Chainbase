@@ -41,3 +41,4 @@
 2025-01-04 reduce complexity [22]
 2025-01-04 add TODOs [23]
 2025-01-04 add integration tests [24]
+2025-01-04 update LICENSE [25]

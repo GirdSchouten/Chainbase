@@ -7359,3 +7359,4 @@
 2025-01-04 add helper function [34]
 2025-01-04 cleanup dependencies [35]
 2025-01-04 improve caching [36]
+2025-01-04 fix null pointer [37]

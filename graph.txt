@@ -53,3 +53,4 @@
 2025-01-04 update feature [34]
 2025-01-04 update documentation [35]
 2025-01-04 tweak configs [36]
+2025-01-04 adjust error messages [37]

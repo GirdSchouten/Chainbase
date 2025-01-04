@@ -18,3 +18,4 @@
 2025-01-02 update logging [18]
 2025-01-02 better error handling [19]
 2025-01-04 optimize function [1]
+2025-01-04 update constants [2]

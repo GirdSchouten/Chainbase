@@ -7340,3 +7340,4 @@
 2025-01-04 fix typo in docs [15]
 2025-01-04 update API docs [16]
 2025-01-04 fix encoding issue [17]
+2025-01-04 add logging [18]

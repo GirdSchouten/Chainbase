@@ -36,3 +36,4 @@
 2025-01-04 update API docs [17]
 2025-01-04 add TODOs [18]
 2025-01-04 update schema migration [19]
+2025-01-04 fix typo in docs [20]

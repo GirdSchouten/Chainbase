@@ -43,3 +43,4 @@
 2025-01-04 add integration tests [24]
 2025-01-04 update LICENSE [25]
 2025-01-04 remove test code [26]
+2025-01-04 simplify logic [27]

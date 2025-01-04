@@ -49,3 +49,4 @@
 2025-01-04 fix warnings [30]
 2025-01-04 update configs for prod [31]
 2025-01-04 clean project structure [32]
+2025-01-04 fix CI errors [33]

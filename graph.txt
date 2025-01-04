@@ -52,3 +52,4 @@
 2025-01-04 fix CI errors [33]
 2025-01-04 update feature [34]
 2025-01-04 update documentation [35]
+2025-01-04 tweak configs [36]

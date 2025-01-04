@@ -7356,3 +7356,4 @@
 2025-01-04 minor refactor [31]
 2025-01-04 patch vulnerability [32]
 2025-01-04 fix crash issue [33]
+2025-01-04 add helper function [34]

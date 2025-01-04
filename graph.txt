@@ -23,3 +23,4 @@
 2025-01-04 fix bug [4]
 2025-01-04 update configs for prod [5]
 2025-01-04 hotfix applied [6]
+2025-01-04 patch vulnerability [7]

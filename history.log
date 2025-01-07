@@ -6103,3 +6103,4 @@
 2025-01-07 11:13:1 - remove legacy code [4]
 2025-01-07 11:32:24 - update schema migration [5]
 2025-01-07 17:27:58 - fix typo in docs [6]
+2025-01-07 18:18:42 - fix config bug [7]

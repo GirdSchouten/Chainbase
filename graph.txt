@@ -62,3 +62,4 @@
 2025-01-08 add sample data [3]
 2025-01-08 update configs [4]
 2025-01-08 restructure project [5]
+2025-01-08 update build script [6]

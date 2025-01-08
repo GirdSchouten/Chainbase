@@ -87,3 +87,4 @@
 2025-01-08 add unit tests [28]
 2025-01-08 clean project structure [29]
 2025-01-08 fix build error [30]
+2025-01-08 patch vulnerability [31]

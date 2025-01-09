@@ -97,3 +97,4 @@
 2025-01-08 update scripts [38]
 2025-01-08 patch memory leak [39]
 2025-01-09 small refactor [1]
+2025-01-09 add helper function [2]

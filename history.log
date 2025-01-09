@@ -21113,3 +21113,4 @@
 2025-01-09 11:31:6 - fix misconfiguration [10]
 2025-01-09 9:35:24 - improve logging format [11]
 2025-01-09 19:14:11 - fix encoding issue [12]
+2025-01-09 9:58:11 - fix null pointer [13]

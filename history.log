@@ -7907,3 +7907,4 @@
 2025-01-09 12:37:53 - update docs with examples [15]
 2025-01-09 13:36:8 - fix misconfiguration [16]
 2025-01-09 14:3:46 - patch memory leak [17]
+2025-01-09 17:57:21 - fix crash issue [18]

@@ -115,3 +115,4 @@
 2025-01-09 rollback changes [17]
 2025-01-09 fix warnings [18]
 2025-01-09 simplify logic [19]
+2025-01-09 update docs with examples [20]

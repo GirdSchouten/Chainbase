@@ -111,3 +111,4 @@
 2025-01-09 enhance logging [13]
 2025-01-09 fix typo in docs [14]
 2025-01-09 update API endpoints [15]
+2025-01-09 tweak configs [16]

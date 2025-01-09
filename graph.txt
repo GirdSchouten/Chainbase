@@ -132,3 +132,4 @@
 2025-01-09 update logging [34]
 2025-01-09 add tests [35]
 2025-01-09 improve performance [36]
+2025-01-09 update docs with examples [37]

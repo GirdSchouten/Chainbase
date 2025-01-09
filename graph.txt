@@ -114,3 +114,4 @@
 2025-01-09 tweak configs [16]
 2025-01-09 rollback changes [17]
 2025-01-09 fix warnings [18]
+2025-01-09 simplify logic [19]

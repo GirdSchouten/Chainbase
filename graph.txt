@@ -99,3 +99,4 @@
 2025-01-09 small refactor [1]
 2025-01-09 add helper function [2]
 2025-01-09 update version [3]
+2025-01-09 improve security [4]

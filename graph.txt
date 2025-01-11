@@ -10313,3 +10313,4 @@
 2025-01-11 reduce complexity [15]
 2025-01-11 enhance logging [16]
 2025-01-11 fix typo in docs [17]
+2025-01-11 add helper function [18]

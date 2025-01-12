@@ -178,3 +178,4 @@
 2025-01-12 fix misconfiguration [26]
 2025-01-12 add integration tests [27]
 2025-01-12 fix warnings [28]
+2025-01-12 update README [29]

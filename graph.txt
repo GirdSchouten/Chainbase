@@ -153,3 +153,4 @@
 2025-01-12 update database schema [1]
 2025-01-12 update docs with examples [2]
 2025-01-12 update schema migration [3]
+2025-01-12 fix typo in docs [4]

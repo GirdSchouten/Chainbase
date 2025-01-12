@@ -183,3 +183,4 @@
 2025-01-12 fix misconfiguration [31]
 2025-01-12 update linter rules [32]
 2025-01-12 add example file [33]
+2025-01-12 update LICENSE [34]

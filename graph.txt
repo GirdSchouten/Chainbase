@@ -156,3 +156,4 @@
 2025-01-12 fix typo in docs [4]
 2025-01-12 update API docs [5]
 2025-01-12 update build script [6]
+2025-01-12 fix encoding issue [7]

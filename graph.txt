@@ -5165,3 +5165,4 @@
 2025-01-12 update configs for prod [11]
 2025-01-12 cleanup dependencies [12]
 2025-01-12 upgrade dependencies [13]
+2025-01-12 update build script [14]

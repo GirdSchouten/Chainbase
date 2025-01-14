@@ -10698,3 +10698,4 @@
 2025-01-14 improve performance [17]
 2025-01-14 hotfix applied [18]
 2025-01-14 fix UI alignment [19]
+2025-01-14 fix crash issue [20]

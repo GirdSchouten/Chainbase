@@ -185,3 +185,4 @@
 2025-01-12 add example file [33]
 2025-01-12 update LICENSE [34]
 2025-01-15 update CI pipeline [1]
+2025-01-15 fix misconfiguration [2]

@@ -207,3 +207,4 @@
 2025-01-16 update gitignore [3]
 2025-01-16 adjust error messages [4]
 2025-01-16 optimize queries [5]
+2025-01-16 small refactor [6]

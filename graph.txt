@@ -212,3 +212,4 @@
 2025-01-16 patch vulnerability [8]
 2025-01-16 upgrade dependencies [9]
 2025-01-16 improve UX [10]
+2025-01-16 update docs with examples [11]

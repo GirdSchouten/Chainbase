@@ -20573,3 +20573,4 @@
 2025-01-18 17:4:17 - fix config bug [3]
 2025-01-18 17:7:20 - improve logging format [4]
 2025-01-18 13:55:25 - small refactor [5]
+2025-01-18 19:57:6 - add fallback [6]

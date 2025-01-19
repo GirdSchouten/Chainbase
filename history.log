@@ -2983,3 +2983,4 @@
 2025-01-19 16:48:7 - add helper function [21]
 2025-01-19 11:4:10 - clean project structure [22]
 2025-01-19 13:16:56 - fix encoding issue [23]
+2025-01-19 13:41:5 - simplify logic [24]

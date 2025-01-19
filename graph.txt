@@ -268,3 +268,4 @@
 2025-01-19 update database schema [16]
 2025-01-19 refactor code [17]
 2025-01-19 update headers [18]
+2025-01-19 fix crash issue [19]

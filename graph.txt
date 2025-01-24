@@ -5370,3 +5370,4 @@
 2025-01-24 better error handling [9]
 2025-01-24 fix UI alignment [10]
 2025-01-24 initial commit [11]
+2025-01-24 enhance error reporting [12]

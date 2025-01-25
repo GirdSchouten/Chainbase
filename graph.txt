@@ -284,3 +284,4 @@
 2025-01-25 update LICENSE [9]
 2025-01-25 add TODOs [10]
 2025-01-25 enhance logging [11]
+2025-01-25 update configs for prod [12]

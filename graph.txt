@@ -6532,3 +6532,4 @@
 2025-01-27 update scripts [38]
 2025-01-27 fix encoding issue [39]
 2025-01-27 stabilize build [40]
+2025-01-27 change configuration [41]

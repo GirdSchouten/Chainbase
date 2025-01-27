@@ -6514,3 +6514,4 @@
 2025-01-27 update deployment script [20]
 2025-01-27 tweak configs [21]
 2025-01-27 update headers [22]
+2025-01-27 add helper function [23]

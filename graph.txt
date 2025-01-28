@@ -4177,3 +4177,4 @@
 2025-01-28 update configs [27]
 2025-01-28 improve UX [28]
 2025-01-28 fix timezone issue [29]
+2025-01-28 update deployment script [30]

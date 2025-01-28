@@ -4173,3 +4173,4 @@
 2025-01-28 initial commit [23]
 2025-01-28 add logging [24]
 2025-01-28 add tests [25]
+2025-01-28 better error handling [26]

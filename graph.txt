@@ -8502,3 +8502,4 @@
 2025-01-30 small refactor [34]
 2025-01-30 better error handling [35]
 2025-01-30 update feature [36]
+2025-01-30 fix null pointer [37]

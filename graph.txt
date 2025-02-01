@@ -355,3 +355,4 @@
 2025-02-01 update headers [11]
 2025-02-01 add integration tests [12]
 2025-02-01 upgrade dependencies [13]
+2025-02-01 better error handling [14]

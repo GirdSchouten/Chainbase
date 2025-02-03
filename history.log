@@ -14013,3 +14013,4 @@
 2025-02-03 19:51:24 - remove unused import [18]
 2025-02-03 9:48:31 - update schema migration [19]
 2025-02-03 15:50:28 - reformat code [20]
+2025-02-03 11:24:42 - better error handling [21]

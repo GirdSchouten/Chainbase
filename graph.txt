@@ -10287,3 +10287,4 @@
 2025-02-05 enhance logging [46]
 2025-02-05 UI improvements [47]
 2025-02-05 update CI pipeline [48]
+2025-02-05 fix null pointer [49]

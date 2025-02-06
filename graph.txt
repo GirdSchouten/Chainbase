@@ -6435,3 +6435,4 @@
 2025-02-06 add integration tests [19]
 2025-02-06 update build script [20]
 2025-02-06 update dependencies [21]
+2025-02-06 fix encoding issue [22]

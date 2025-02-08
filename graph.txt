@@ -7966,3 +7966,4 @@
 2025-02-08 update roadmap [12]
 2025-02-08 fix warnings [13]
 2025-02-08 improve UX [14]
+2025-02-08 clean project structure [15]

@@ -384,3 +384,4 @@
 2025-02-08 stabilize build [9]
 2025-02-08 update version [10]
 2025-02-08 improve caching [11]
+2025-02-08 hotfix applied [12]

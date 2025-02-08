@@ -379,3 +379,4 @@
 2025-02-08 adjust error messages [4]
 2025-02-08 upgrade dependencies [5]
 2025-02-08 fix encoding issue [6]
+2025-02-08 adjust validation rules [7]

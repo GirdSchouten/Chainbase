@@ -380,3 +380,4 @@
 2025-02-08 upgrade dependencies [5]
 2025-02-08 fix encoding issue [6]
 2025-02-08 adjust validation rules [7]
+2025-02-08 update deployment script [8]

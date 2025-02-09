@@ -387,3 +387,4 @@
 2025-02-08 hotfix applied [12]
 2025-02-09 fix CI errors [1]
 2025-02-09 add integration tests [2]
+2025-02-09 update metadata [3]

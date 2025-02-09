@@ -395,3 +395,4 @@
 2025-02-09 update CI pipeline [8]
 2025-02-09 rollback changes [9]
 2025-02-09 remove unused code [10]
+2025-02-09 improve UX [11]

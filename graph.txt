@@ -4982,3 +4982,4 @@
 2025-02-09 update docs with examples [44]
 2025-02-09 patch memory leak [45]
 2025-02-09 temporary fix [46]
+2025-02-09 fix encoding issue [47]

@@ -419,3 +419,4 @@
 2025-02-12 add changelog [16]
 2025-02-12 update constants [17]
 2025-02-12 fix crash issue [18]
+2025-02-12 update gitignore [19]

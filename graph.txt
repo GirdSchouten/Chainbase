@@ -402,3 +402,4 @@
 2025-02-09 update configs [15]
 2025-02-09 enhance logging [16]
 2025-02-12 update docs with examples [1]
+2025-02-12 improve security [2]

@@ -425,3 +425,4 @@
 2025-02-12 minor refactor [22]
 2025-02-12 add helper function [23]
 2025-02-14 update configs for prod [1]
+2025-02-14 optimize queries [2]

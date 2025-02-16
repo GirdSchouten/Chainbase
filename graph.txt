@@ -479,3 +479,4 @@
 2025-02-16 add TODOs [18]
 2025-02-16 fix typo in docs [19]
 2025-02-16 patch memory leak [20]
+2025-02-16 add integration tests [21]

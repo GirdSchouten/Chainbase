@@ -5086,3 +5086,4 @@
 2025-03-10 optimize function [40]
 2025-02-16 update API docs [1]
 2025-02-16 fix crash issue [2]
+2025-02-16 update database schema [3]

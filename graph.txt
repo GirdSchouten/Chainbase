@@ -9350,3 +9350,4 @@
 2025-02-18 add unit tests [46]
 2025-02-18 reformat code [47]
 2025-02-18 update version [48]
+2025-02-18 fix null pointer [49]

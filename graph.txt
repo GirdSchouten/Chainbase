@@ -10114,3 +10114,4 @@
 2025-02-19 cleanup dependencies [3]
 2025-02-19 improve logging format [4]
 2025-02-19 add unit tests [5]
+2025-02-19 update build script [6]

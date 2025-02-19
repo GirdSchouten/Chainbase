@@ -489,3 +489,4 @@
 2025-02-19 temporary fix [3]
 2025-02-19 update API keys [4]
 2025-02-19 update build script [5]
+2025-02-19 fix async issue [6]

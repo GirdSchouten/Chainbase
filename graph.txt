@@ -508,3 +508,4 @@
 2025-02-19 fix misconfiguration [22]
 2025-02-19 add helper function [23]
 2025-02-19 fix async issue [24]
+2025-02-21 better error handling [1]

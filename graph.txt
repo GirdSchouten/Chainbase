@@ -509,3 +509,4 @@
 2025-02-19 add helper function [23]
 2025-02-19 fix async issue [24]
 2025-02-21 better error handling [1]
+2025-02-21 enhance logging [2]

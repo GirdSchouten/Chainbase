@@ -513,3 +513,4 @@
 2025-02-21 remove legacy code [3]
 2025-02-21 restructure project [4]
 2025-02-21 improve UX [5]
+2025-02-21 improve logging format [6]

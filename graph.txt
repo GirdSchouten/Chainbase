@@ -9388,3 +9388,4 @@
 2025-02-21 update configs for prod [34]
 2025-02-21 add integration tests [35]
 2025-02-21 improve performance [36]
+2025-02-21 fix null pointer [37]

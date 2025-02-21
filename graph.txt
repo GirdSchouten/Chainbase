@@ -511,3 +511,4 @@
 2025-02-21 better error handling [1]
 2025-02-21 enhance logging [2]
 2025-02-21 remove legacy code [3]
+2025-02-21 restructure project [4]

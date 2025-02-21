@@ -514,3 +514,4 @@
 2025-02-21 restructure project [4]
 2025-02-21 improve UX [5]
 2025-02-21 improve logging format [6]
+2025-02-21 update workflow [7]

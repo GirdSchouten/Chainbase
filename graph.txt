@@ -530,3 +530,4 @@
 2025-02-23 update schema migration [5]
 2025-02-23 add tests [6]
 2025-02-23 cleanup code [7]
+2025-02-23 improve UX [8]

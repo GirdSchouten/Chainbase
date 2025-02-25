@@ -10799,3 +10799,4 @@
 2025-02-25 fix crash issue [10]
 2025-02-25 update LICENSE [11]
 2025-02-25 update configs [12]
+2025-02-25 fix compatibility [13]

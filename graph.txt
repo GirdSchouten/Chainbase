@@ -10808,3 +10808,4 @@
 2025-02-25 enhance error reporting [19]
 2025-02-25 upgrade dependencies [20]
 2025-02-25 add tests [21]
+2025-02-25 fix compatibility [22]

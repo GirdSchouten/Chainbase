@@ -10836,3 +10836,4 @@
 2025-02-25 fix crash issue [47]
 2025-02-25 fix typo in docs [48]
 2025-02-25 update configs [49]
+2025-02-25 adjust validation rules [50]

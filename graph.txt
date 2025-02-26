@@ -570,3 +570,4 @@
 2025-02-26 simplify logic [18]
 2025-02-26 update configs for prod [19]
 2025-02-26 update dependencies [20]
+2025-02-26 update schema migration [21]

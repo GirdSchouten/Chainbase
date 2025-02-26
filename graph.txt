@@ -583,3 +583,4 @@
 2025-02-26 update dependencies [31]
 2025-02-26 restructure project [32]
 2025-02-26 add TODOs [33]
+2025-02-26 fix crash issue [34]

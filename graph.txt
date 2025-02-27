@@ -594,3 +594,4 @@
 2025-02-27 better error handling [7]
 2025-02-27 update gitignore [8]
 2025-02-27 fix permission issue [9]
+2025-02-27 improve UX [10]

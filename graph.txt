@@ -597,3 +597,4 @@
 2025-02-27 improve UX [10]
 2025-02-27 update metadata [11]
 2025-02-27 small refactor [12]
+2025-02-27 update gitignore [13]

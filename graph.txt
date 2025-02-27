@@ -599,3 +599,4 @@
 2025-02-27 small refactor [12]
 2025-02-27 update gitignore [13]
 2025-02-27 fix crash issue [14]
+2025-02-27 improve security [15]

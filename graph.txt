@@ -593,3 +593,4 @@
 2025-02-27 fix typo in docs [6]
 2025-02-27 better error handling [7]
 2025-02-27 update gitignore [8]
+2025-02-27 fix permission issue [9]

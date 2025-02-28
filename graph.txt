@@ -11357,3 +11357,4 @@
 2025-06-28 update gitignore [35]
 2025-02-28 style improvements [1]
 2025-02-28 update roadmap [2]
+2025-02-28 remove legacy code [3]

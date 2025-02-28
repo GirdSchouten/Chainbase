@@ -11412,3 +11412,4 @@
 2025-02-28 update headers [55]
 2025-02-28 update configs for prod [56]
 2025-02-28 update dependencies [57]
+2025-02-28 update deployment script [58]

@@ -16797,3 +16797,4 @@
 2025-02-28 9:54:37 - update README [12]
 2025-02-28 12:15:46 - update LICENSE [13]
 2025-02-28 16:18:30 - fix docker build [14]
+2025-02-28 18:1:55 - better error handling [15]

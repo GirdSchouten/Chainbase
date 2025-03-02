@@ -412,3 +412,4 @@
 2025-03-02 13:16:50 - fix crash issue [8]
 2025-03-02 19:40:34 - update API keys [9]
 2025-03-02 9:33:42 - update schema migration [10]
+2025-03-02 14:35:50 - better error handling [11]

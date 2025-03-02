@@ -5020,3 +5020,4 @@
 2025-03-02 update docs with examples [10]
 2025-03-02 add tests [11]
 2025-03-02 fix config bug [12]
+2025-03-02 improve logging format [13]

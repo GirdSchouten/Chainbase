@@ -21685,3 +21685,4 @@
 2025-03-02 11:59:7 - add integration tests [10]
 2025-03-02 19:50:52 - update docs with examples [11]
 2025-03-02 11:45:45 - fix async issue [12]
+2025-03-02 9:15:26 - fix encoding issue [13]

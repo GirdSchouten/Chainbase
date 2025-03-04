@@ -7801,3 +7801,4 @@
 2025-11-15 fix encoding issue [55]
 2025-03-04 add fallback [1]
 2025-03-04 better defaults [2]
+2025-03-04 improve logging format [3]

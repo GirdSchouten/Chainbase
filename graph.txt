@@ -4722,3 +4722,4 @@
 2025-03-05 update database schema [24]
 2025-03-05 improve security [25]
 2025-03-05 fix typo in docs [26]
+2025-03-05 patch memory leak [27]

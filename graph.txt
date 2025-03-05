@@ -4703,3 +4703,4 @@
 2025-03-05 improve logging format [5]
 2025-03-05 add integration tests [6]
 2025-03-05 update schema migration [7]
+2025-03-05 simplify logic [8]

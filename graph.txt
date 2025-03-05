@@ -4701,3 +4701,4 @@
 2025-03-05 add unit tests [3]
 2025-03-05 change configuration [4]
 2025-03-05 improve logging format [5]
+2025-03-05 add integration tests [6]

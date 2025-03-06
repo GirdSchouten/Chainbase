@@ -6629,3 +6629,4 @@
 2025-03-06 update schema migration [7]
 2025-03-06 update build script [8]
 2025-03-06 simplify logic [9]
+2025-03-06 update configs for prod [10]

@@ -22045,3 +22045,4 @@
 2025-08-06 12:42:21 - fix timezone issue [24]
 2025-08-06 9:37:53 - fix docker build [25]
 2025-08-06 11:46:48 - update headers [26]
+2025-03-08 17:1:51 - fix encoding issue [1]

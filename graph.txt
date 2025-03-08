@@ -613,3 +613,4 @@
 2025-03-08 reorganize files [2]
 2025-03-08 fix timezone issue [3]
 2025-03-08 adjust validation rules [4]
+2025-03-08 add helper function [5]

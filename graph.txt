@@ -5080,3 +5080,4 @@
 2025-03-10 fix async issue [34]
 2025-03-10 improve caching [35]
 2025-03-10 update gitignore [36]
+2025-03-10 tweak configs [37]

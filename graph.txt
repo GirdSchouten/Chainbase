@@ -11259,3 +11259,4 @@
 2025-03-11 fix build error [46]
 2025-03-11 fix typo in docs [47]
 2025-03-11 update schema migration [48]
+2025-03-11 add integration tests [49]

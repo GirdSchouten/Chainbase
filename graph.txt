@@ -5807,3 +5807,4 @@
 2025-03-12 update deployment script [10]
 2025-03-12 change configuration [11]
 2025-03-12 fix warnings [12]
+2025-03-12 adjust validation rules [13]

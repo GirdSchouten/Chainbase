@@ -5867,3 +5867,4 @@
 2025-03-12 improve logging format [70]
 2025-03-12 fix misconfiguration [71]
 2025-03-12 fix typo in docs [72]
+2025-03-12 better error handling [73]

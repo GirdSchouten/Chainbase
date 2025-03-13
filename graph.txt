@@ -645,3 +645,4 @@
 2025-03-13 fix misconfiguration [11]
 2025-03-13 enhance logging [12]
 2025-03-13 update feature [13]
+2025-03-13 update LICENSE [14]

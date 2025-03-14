@@ -678,3 +678,4 @@
 2025-03-14 update database schema [17]
 2025-03-14 restructure modules [18]
 2025-03-14 fix type error [19]
+2025-03-14 update API endpoints [20]

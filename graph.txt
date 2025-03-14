@@ -664,3 +664,4 @@
 2025-03-14 update version [3]
 2025-03-14 security patch [4]
 2025-03-14 add sample data [5]
+2025-03-14 update database schema [6]

@@ -720,3 +720,4 @@
 2025-03-16 update API keys [30]
 2025-03-16 fix config bug [31]
 2025-03-16 add tests [32]
+2025-03-16 remove legacy code [33]

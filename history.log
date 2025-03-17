@@ -7517,3 +7517,4 @@
 2025-03-17 9:59:51 - better error handling [14]
 2025-03-17 17:54:46 - remove debug output [15]
 2025-03-17 13:43:39 - add changelog [16]
+2025-03-17 9:3:47 - improve logging format [17]

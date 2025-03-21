@@ -8985,3 +8985,4 @@
 2025-07-12 UI improvements [57]
 2025-03-21 small refactor [1]
 2025-03-21 fix permission issue [2]
+2025-03-21 update README [3]

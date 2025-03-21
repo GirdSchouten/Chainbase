@@ -8988,3 +8988,4 @@
 2025-03-21 update README [3]
 2025-03-21 update gitignore [4]
 2025-03-21 minor refactor [5]
+2025-03-21 update build script [6]

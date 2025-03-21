@@ -20854,3 +20854,4 @@
 2025-06-03 15:7:6 - update constants [12]
 2025-03-21 12:43:34 - restructure modules [1]
 2025-03-21 13:5:36 - update gitignore [2]
+2025-03-21 14:21:31 - fix crash issue [3]

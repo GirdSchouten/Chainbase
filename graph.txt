@@ -727,3 +727,4 @@
 2025-03-16 update configs for prod [37]
 2025-03-16 better defaults [38]
 2025-03-22 tweak configs [1]
+2025-03-22 fix typo in code [2]

@@ -741,3 +741,4 @@
 2025-03-23 add integration tests [2]
 2025-03-23 fix config bug [3]
 2025-03-23 update gitignore [4]
+2025-03-23 update configs for prod [5]

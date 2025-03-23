@@ -744,3 +744,4 @@
 2025-03-23 update configs for prod [5]
 2025-03-23 fix warnings [6]
 2025-03-23 add comments [7]
+2025-03-23 hotfix applied [8]

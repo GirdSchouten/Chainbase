@@ -6362,3 +6362,4 @@
 2025-03-23 17:9:43 - add sample data [11]
 2025-03-23 8:35:49 - update configs for prod [12]
 2025-03-23 8:13:55 - update docs with examples [13]
+2025-03-23 8:54:7 - better error handling [14]

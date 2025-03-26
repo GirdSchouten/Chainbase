@@ -7066,3 +7066,4 @@
 2025-03-26 add changelog [12]
 2025-03-26 fix edge case [13]
 2025-03-26 update gitignore [14]
+2025-03-26 update build script [15]

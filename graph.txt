@@ -7057,3 +7057,4 @@
 2025-03-26 experimental changes [3]
 2025-03-26 small refactor [4]
 2025-03-26 fix encoding issue [5]
+2025-03-26 better error handling [6]

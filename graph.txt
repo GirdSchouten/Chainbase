@@ -7062,3 +7062,4 @@
 2025-03-26 improve security [8]
 2025-03-26 add sample data [9]
 2025-03-26 update docs with examples [10]
+2025-03-26 add helper function [11]

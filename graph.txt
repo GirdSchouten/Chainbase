@@ -770,3 +770,4 @@
 2025-03-26 small refactor [8]
 2025-03-26 update configs for prod [9]
 2025-03-26 update build script [10]
+2025-03-26 add integration tests [11]

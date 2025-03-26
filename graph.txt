@@ -769,3 +769,4 @@
 2025-03-26 add comments [7]
 2025-03-26 small refactor [8]
 2025-03-26 update configs for prod [9]
+2025-03-26 update build script [10]

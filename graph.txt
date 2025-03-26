@@ -761,3 +761,4 @@
 2025-03-23 better error handling [22]
 2025-03-23 experimental changes [23]
 2025-03-26 fix misconfiguration [1]
+2025-03-26 update schema migration [2]

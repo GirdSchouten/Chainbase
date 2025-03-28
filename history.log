@@ -1747,3 +1747,4 @@
 2025-03-28 12:40:22 - fix async issue [43]
 2025-03-28 18:15:48 - add logging [44]
 2025-03-28 11:24:55 - add example file [45]
+2025-03-28 18:24:0 - better error handling [46]

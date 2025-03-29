@@ -7503,3 +7503,4 @@
 2025-03-29 fix build error [54]
 2025-03-29 fix async issue [55]
 2025-03-29 update docs with examples [56]
+2025-03-29 update version [57]

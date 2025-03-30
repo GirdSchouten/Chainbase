@@ -781,3 +781,4 @@
 2025-03-26 typo fix [19]
 2025-03-26 cleanup dependencies [20]
 2025-03-26 add integration tests [21]
+2025-03-30 fix encoding issue [1]

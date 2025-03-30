@@ -791,3 +791,4 @@
 2025-03-30 update gitignore [8]
 2025-03-30 rollback changes [9]
 2025-03-30 better error handling [10]
+2025-03-30 adjust error messages [11]

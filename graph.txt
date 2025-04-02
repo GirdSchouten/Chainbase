@@ -810,3 +810,4 @@
 2025-03-30 fix timezone issue [27]
 2025-03-30 update API endpoints [28]
 2025-04-02 update docs with examples [1]
+2025-04-02 update workflow [2]

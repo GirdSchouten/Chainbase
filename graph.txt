@@ -819,3 +819,4 @@
 2025-04-02 hotfix applied [8]
 2025-04-02 refactor tests [9]
 2025-04-02 add integration tests [10]
+2025-04-02 update API endpoints [11]

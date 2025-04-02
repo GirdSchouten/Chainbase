@@ -818,3 +818,4 @@
 2025-04-02 fix warnings [7]
 2025-04-02 hotfix applied [8]
 2025-04-02 refactor tests [9]
+2025-04-02 add integration tests [10]

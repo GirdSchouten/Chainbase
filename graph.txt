@@ -9506,3 +9506,4 @@
 2025-04-03 restructure project [4]
 2025-04-03 update docs with examples [5]
 2025-04-03 update build script [6]
+2025-04-03 better error handling [7]

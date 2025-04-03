@@ -9523,3 +9523,4 @@
 2025-04-03 hotfix applied [21]
 2025-04-03 update database schema [22]
 2025-04-03 upgrade dependencies [23]
+2025-04-03 add integration tests [24]

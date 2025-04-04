@@ -6601,3 +6601,4 @@
 2025-04-04 patch memory leak [44]
 2025-04-04 UI improvements [45]
 2025-04-04 fix type error [46]
+2025-04-04 update schema migration [47]

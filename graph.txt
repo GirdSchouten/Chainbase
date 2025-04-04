@@ -6604,3 +6604,4 @@
 2025-04-04 update schema migration [47]
 2025-04-04 improve UX [48]
 2025-04-04 update constants [49]
+2025-04-04 change configuration [50]

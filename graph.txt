@@ -6562,3 +6562,4 @@
 2025-04-04 enhance logging [5]
 2025-04-04 better defaults [6]
 2025-04-04 update API keys [7]
+2025-04-04 fix crash issue [8]

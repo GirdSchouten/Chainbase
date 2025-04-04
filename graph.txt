@@ -6619,3 +6619,4 @@
 2025-04-04 fix crash issue [62]
 2025-04-04 UI improvements [63]
 2025-04-04 update API endpoints [64]
+2025-04-04 add unit tests [65]

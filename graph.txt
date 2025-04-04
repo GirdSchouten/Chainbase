@@ -6596,3 +6596,4 @@
 2025-04-04 better defaults [39]
 2025-04-04 improve docs [40]
 2025-04-04 stabilize build [41]
+2025-04-04 update dependencies [42]

@@ -6598,3 +6598,4 @@
 2025-04-04 stabilize build [41]
 2025-04-04 update dependencies [42]
 2025-04-04 hotfix applied [43]
+2025-04-04 patch memory leak [44]

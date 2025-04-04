@@ -852,3 +852,4 @@
 2025-04-04 fix encoding issue [5]
 2025-04-04 cleanup dependencies [6]
 2025-04-04 fix config bug [7]
+2025-04-04 enhance error reporting [8]

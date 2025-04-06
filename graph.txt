@@ -9567,3 +9567,4 @@
 2025-04-06 improve UX [4]
 2025-04-06 temporary fix [5]
 2025-04-06 fix crash issue [6]
+2025-04-06 add integration tests [7]

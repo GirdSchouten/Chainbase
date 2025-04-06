@@ -9563,3 +9563,4 @@
 2025-08-25 better defaults [31]
 2025-04-06 improve caching [1]
 2025-04-06 rollback changes [2]
+2025-04-06 enhance logging [3]

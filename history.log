@@ -8171,3 +8171,4 @@
 2025-04-06 19:34:53 - fix encoding issue [7]
 2025-04-06 18:23:11 - improve UX [8]
 2025-04-06 19:2:26 - fix docker build [9]
+2025-04-06 18:48:21 - update configs for prod [10]

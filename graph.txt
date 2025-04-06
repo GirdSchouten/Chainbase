@@ -9622,3 +9622,4 @@
 2025-04-06 update build script [59]
 2025-04-06 UI improvements [60]
 2025-04-06 fix typo in docs [61]
+2025-04-06 update README [62]

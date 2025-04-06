@@ -865,3 +865,4 @@
 2025-04-06 small refactor [4]
 2025-04-06 fix timezone issue [5]
 2025-04-06 add TODOs [6]
+2025-04-06 update CI pipeline [7]

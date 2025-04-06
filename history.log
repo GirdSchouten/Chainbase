@@ -8200,3 +8200,4 @@
 2025-04-06 17:1:57 - remove unused import [36]
 2025-04-06 14:5:27 - improve logging format [37]
 2025-04-06 14:3:27 - update API docs [38]
+2025-04-06 15:29:7 - add helper function [39]

@@ -18796,3 +18796,4 @@
 2025-04-07 15:33:43 - hotfix applied [12]
 2025-04-07 13:51:40 - update schema migration [13]
 2025-04-07 17:19:33 - fix docker build [14]
+2025-04-07 16:13:9 - add unit tests [15]

@@ -18797,3 +18797,4 @@
 2025-04-07 13:51:40 - update schema migration [13]
 2025-04-07 17:19:33 - fix docker build [14]
 2025-04-07 16:13:9 - add unit tests [15]
+2025-04-07 12:59:40 - update configs for prod [16]

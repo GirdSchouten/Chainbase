@@ -5781,3 +5781,4 @@
 2025-04-08 fix timezone issue [24]
 2025-04-08 add logging [25]
 2025-04-08 adjust error messages [26]
+2025-04-08 update schema migration [27]

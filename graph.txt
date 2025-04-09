@@ -870,3 +870,4 @@
 2025-04-06 patch memory leak [9]
 2025-04-06 add changelog [10]
 2025-04-09 better error handling [1]
+2025-04-09 better error handling [2]

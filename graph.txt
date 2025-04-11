@@ -901,3 +901,4 @@
 2025-04-11 add tests [8]
 2025-04-11 update LICENSE [9]
 2025-04-11 fix typo in code [10]
+2025-04-11 update build script [11]

@@ -10414,3 +10414,4 @@
 2025-12-19 remove deprecated code [63]
 2025-12-19 update build script [64]
 2025-04-13 fix UI alignment [1]
+2025-04-13 update configs [2]

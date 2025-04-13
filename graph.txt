@@ -924,3 +924,4 @@
 2025-04-13 fix compatibility [2]
 2025-04-13 enhance logging [3]
 2025-04-13 enhance logging [4]
+2025-04-13 improve logging format [5]

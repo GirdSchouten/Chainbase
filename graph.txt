@@ -943,3 +943,4 @@
 2025-04-13 hotfix applied [21]
 2025-04-13 fix null pointer [22]
 2025-04-13 add changelog [23]
+2025-04-13 rollback changes [24]

@@ -10479,3 +10479,4 @@
 2025-04-13 update CI pipeline [64]
 2025-04-13 hotfix applied [65]
 2025-04-13 fix async issue [66]
+2025-04-13 UI improvements [67]

@@ -945,3 +945,4 @@
 2025-04-13 add changelog [23]
 2025-04-13 rollback changes [24]
 2025-04-13 cleanup dependencies [25]
+2025-04-13 update documentation [26]

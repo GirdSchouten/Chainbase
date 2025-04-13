@@ -10480,3 +10480,4 @@
 2025-04-13 hotfix applied [65]
 2025-04-13 fix async issue [66]
 2025-04-13 UI improvements [67]
+2025-04-13 update docs with examples [68]

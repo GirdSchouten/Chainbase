@@ -9853,3 +9853,4 @@
 2025-04-14 better error handling [15]
 2025-04-14 improve logging format [16]
 2025-04-14 fix docker build [17]
+2025-04-14 enhance error reporting [18]

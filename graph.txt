@@ -959,3 +959,4 @@
 2025-04-13 fix timezone issue [37]
 2025-04-16 reformat code [1]
 2025-04-16 add tests [2]
+2025-04-16 update build script [3]

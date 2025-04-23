@@ -9463,3 +9463,4 @@
 2025-04-23 update documentation [36]
 2025-04-23 adjust validation rules [37]
 2025-04-23 fix CI errors [38]
+2025-04-23 update configs [39]

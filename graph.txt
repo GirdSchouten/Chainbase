@@ -999,3 +999,4 @@
 2025-04-24 add unit tests [4]
 2025-04-24 update database schema [5]
 2025-04-24 fix crash issue [6]
+2025-04-24 tweak configs [7]

@@ -997,3 +997,4 @@
 2025-04-24 update roadmap [2]
 2025-04-24 update schema migration [3]
 2025-04-24 add unit tests [4]
+2025-04-24 update database schema [5]

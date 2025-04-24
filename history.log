@@ -15915,3 +15915,4 @@
 2025-04-24 9:22:43 - better error handling [20]
 2025-04-24 15:23:49 - add unit tests [21]
 2025-04-24 12:2:37 - fix typo in docs [22]
+2025-04-24 11:5:53 - adjust error messages [23]

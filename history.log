@@ -21896,3 +21896,4 @@
 2025-04-25 11:15:39 - add integration tests [6]
 2025-04-25 17:51:29 - update database schema [7]
 2025-04-25 19:30:35 - remove deprecated code [8]
+2025-04-25 9:22:21 - adjust error messages [9]

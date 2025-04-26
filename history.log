@@ -4410,3 +4410,4 @@
 2025-04-26 15:42:57 - fix warnings [16]
 2025-04-26 9:37:7 - update version [17]
 2025-04-26 8:59:34 - better error handling [18]
+2025-04-26 10:14:1 - fix encoding issue [19]

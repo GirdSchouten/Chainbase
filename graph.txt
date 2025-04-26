@@ -11430,3 +11430,4 @@
 2025-04-26 add tests [10]
 2025-04-26 fix typo in docs [11]
 2025-04-26 minor refactor [12]
+2025-04-26 fix null pointer [13]

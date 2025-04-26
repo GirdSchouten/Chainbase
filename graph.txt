@@ -11471,3 +11471,4 @@
 2025-04-26 fix warnings [51]
 2025-04-26 minor refactor [52]
 2025-04-26 UI improvements [53]
+2025-04-26 fix crash issue [54]

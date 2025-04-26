@@ -11473,3 +11473,4 @@
 2025-04-26 UI improvements [53]
 2025-04-26 fix crash issue [54]
 2025-04-26 update configs [55]
+2025-04-26 update schema migration [56]

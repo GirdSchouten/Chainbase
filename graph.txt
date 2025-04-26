@@ -11425,3 +11425,4 @@
 2025-04-26 update database schema [5]
 2025-04-26 improve performance [6]
 2025-04-26 hotfix applied [7]
+2025-04-26 simplify logic [8]

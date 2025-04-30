@@ -6930,3 +6930,4 @@
 2025-04-30 update API endpoints [21]
 2025-04-30 tweak configs [22]
 2025-04-30 rollback changes [23]
+2025-04-30 update configs for prod [24]

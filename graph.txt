@@ -6922,3 +6922,4 @@
 2025-04-30 update docs with examples [13]
 2025-04-30 update database schema [14]
 2025-04-30 add unit tests [15]
+2025-04-30 better error handling [16]

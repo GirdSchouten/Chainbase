@@ -6925,3 +6925,4 @@
 2025-04-30 better error handling [16]
 2025-04-30 update docs with examples [17]
 2025-04-30 update build script [18]
+2025-04-30 add tests [19]

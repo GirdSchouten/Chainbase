@@ -1018,3 +1018,4 @@
 2025-04-24 improve UX [23]
 2025-05-01 patch vulnerability [1]
 2025-05-01 fix encoding issue [2]
+2025-05-01 fix config bug [3]

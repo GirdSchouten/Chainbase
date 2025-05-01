@@ -1016,3 +1016,4 @@
 2025-04-24 add tests [21]
 2025-04-24 update version [22]
 2025-04-24 improve UX [23]
+2025-05-01 patch vulnerability [1]

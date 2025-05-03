@@ -1029,3 +1029,4 @@
 2025-05-01 cleanup dependencies [11]
 2025-05-03 add integration tests [1]
 2025-05-03 update docs with examples [2]
+2025-05-03 update gitignore [3]

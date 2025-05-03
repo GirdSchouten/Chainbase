@@ -1038,3 +1038,4 @@
 2025-05-03 clean project structure [9]
 2025-05-03 temporary fix [10]
 2025-05-03 add unit tests [11]
+2025-05-03 change configuration [12]

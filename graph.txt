@@ -9798,3 +9798,4 @@
 2025-05-04 cleanup dependencies [2]
 2025-05-04 improve security [3]
 2025-05-04 fix config bug [4]
+2025-05-04 better error handling [5]

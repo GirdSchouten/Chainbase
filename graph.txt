@@ -1049,3 +1049,4 @@
 2025-05-04 improve caching [1]
 2025-05-04 add logging [2]
 2025-05-04 small refactor [3]
+2025-05-04 better error handling [4]

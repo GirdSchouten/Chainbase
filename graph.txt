@@ -1061,3 +1061,4 @@
 2025-05-04 minor refactor [13]
 2025-05-04 fix build error [14]
 2025-05-04 update LICENSE [15]
+2025-05-04 update configs for prod [16]

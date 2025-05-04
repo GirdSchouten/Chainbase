@@ -9822,3 +9822,4 @@
 2025-05-04 initial commit [26]
 2025-05-04 enhance logging [27]
 2025-05-04 fix compatibility [28]
+2025-05-04 fix docker build [29]

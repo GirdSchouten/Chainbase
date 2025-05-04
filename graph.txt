@@ -1054,3 +1054,4 @@
 2025-05-04 update CI pipeline [6]
 2025-05-04 add helper function [7]
 2025-05-04 update API keys [8]
+2025-05-04 fix crash issue [9]

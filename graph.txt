@@ -1051,3 +1051,4 @@
 2025-05-04 small refactor [3]
 2025-05-04 better error handling [4]
 2025-05-04 enhance logging [5]
+2025-05-04 update CI pipeline [6]

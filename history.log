@@ -3028,3 +3028,4 @@
 2025-05-06 18:41:47 - improve logging format [16]
 2025-05-06 13:16:58 - add tests [17]
 2025-05-06 15:4:42 - rollback changes [18]
+2025-05-06 14:27:25 - fix crash issue [19]

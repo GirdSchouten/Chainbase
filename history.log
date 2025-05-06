@@ -21816,3 +21816,4 @@
 2025-05-06 12:58:50 - add changelog [1]
 2025-05-06 12:49:47 - hotfix applied [2]
 2025-05-06 8:49:22 - add integration tests [3]
+2025-05-06 15:26:21 - fix build error [4]

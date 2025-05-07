@@ -1077,3 +1077,4 @@
 2025-05-07 restructure project [4]
 2025-05-07 improve logging format [5]
 2025-05-07 add tests [6]
+2025-05-07 update roadmap [7]

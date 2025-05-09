@@ -1095,3 +1095,4 @@
 2025-05-08 update linter rules [10]
 2025-05-08 update workflow [11]
 2025-05-09 upgrade dependencies [1]
+2025-05-09 add integration tests [2]

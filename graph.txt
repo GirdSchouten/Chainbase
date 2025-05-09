@@ -11317,3 +11317,4 @@
 2025-05-09 update API endpoints [42]
 2025-05-09 fix crash issue [43]
 2025-05-09 add integration tests [44]
+2025-05-09 add helper function [45]

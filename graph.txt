@@ -8344,3 +8344,4 @@
 2025-05-12 fix crash issue [12]
 2025-05-12 update LICENSE [13]
 2025-05-12 add TODOs [14]
+2025-05-12 update deployment script [15]

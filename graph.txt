@@ -8372,3 +8372,4 @@
 2025-05-12 fix typo in docs [40]
 2025-05-12 update scripts [41]
 2025-05-12 fix merge conflicts [42]
+2025-05-12 update configs [43]

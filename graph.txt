@@ -8353,3 +8353,4 @@
 2025-05-12 update configs [21]
 2025-05-12 update metadata [22]
 2025-05-12 update API keys [23]
+2025-05-12 fix crash issue [24]

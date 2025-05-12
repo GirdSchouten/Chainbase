@@ -8395,3 +8395,4 @@
 2025-05-12 fix edge case [63]
 2025-05-12 update configs for prod [64]
 2025-05-12 update schema migration [65]
+2025-05-12 update database schema [66]

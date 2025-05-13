@@ -7725,3 +7725,4 @@
 2025-05-13 fix config bug [44]
 2025-05-13 fix async issue [45]
 2025-05-13 adjust validation rules [46]
+2025-05-13 update README [47]

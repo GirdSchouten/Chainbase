@@ -7730,3 +7730,4 @@
 2025-05-13 update LICENSE [49]
 2025-05-13 update configs for prod [50]
 2025-05-13 update version [51]
+2025-05-13 adjust validation rules [52]

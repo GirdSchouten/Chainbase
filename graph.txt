@@ -7729,3 +7729,4 @@
 2025-05-13 improve UX [48]
 2025-05-13 update LICENSE [49]
 2025-05-13 update configs for prod [50]
+2025-05-13 update version [51]

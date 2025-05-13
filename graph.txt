@@ -7727,3 +7727,4 @@
 2025-05-13 adjust validation rules [46]
 2025-05-13 update README [47]
 2025-05-13 improve UX [48]
+2025-05-13 update LICENSE [49]

@@ -1128,3 +1128,4 @@
 2025-05-10 improve caching [8]
 2025-05-10 tweak configs [9]
 2025-05-10 rebuild project [10]
+2025-05-17 change configuration [1]

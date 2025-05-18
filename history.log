@@ -8698,3 +8698,4 @@
 2025-05-18 14:48:11 - update API keys [15]
 2025-05-18 13:16:57 - update docs with examples [16]
 2025-05-18 13:32:36 - enhance logging [17]
+2025-05-18 15:47:18 - fix encoding issue [18]

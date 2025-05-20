@@ -10907,3 +10907,4 @@
 2025-05-20 add helper function [18]
 2025-05-20 enhance logging [19]
 2025-05-20 update database schema [20]
+2025-05-20 reduce complexity [21]

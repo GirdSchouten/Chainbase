@@ -10915,3 +10915,4 @@
 2025-05-20 enhance logging [26]
 2025-05-20 add tests [27]
 2025-05-20 update docs with examples [28]
+2025-05-20 fix build error [29]

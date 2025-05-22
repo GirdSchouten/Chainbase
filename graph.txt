@@ -1160,3 +1160,4 @@
 2025-05-22 clean project structure [18]
 2025-05-22 change configuration [19]
 2025-05-22 improve performance [20]
+2025-05-22 fix crash issue [21]

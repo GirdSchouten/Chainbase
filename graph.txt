@@ -6281,3 +6281,4 @@
 2025-05-22 stabilize build [47]
 2025-05-22 cleanup dependencies [48]
 2025-05-22 patch memory leak [49]
+2025-05-22 add integration tests [50]

@@ -1142,3 +1142,4 @@
 2025-05-17 add tests [12]
 2025-05-22 fix config bug [1]
 2025-05-22 add helper function [2]
+2025-05-22 better error handling [3]

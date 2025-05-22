@@ -6233,3 +6233,4 @@
 2025-11-06 fix compatibility [77]
 2025-11-06 update docs with examples [78]
 2025-05-22 update roadmap [1]
+2025-05-22 update version [2]

@@ -6256,3 +6256,4 @@
 2025-05-22 fix CI errors [22]
 2025-05-22 fix typo in docs [23]
 2025-05-22 restructure modules [24]
+2025-05-22 update linter rules [25]

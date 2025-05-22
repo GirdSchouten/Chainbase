@@ -1140,3 +1140,4 @@
 2025-05-17 improve logging format [10]
 2025-05-17 fix compatibility [11]
 2025-05-17 add tests [12]
+2025-05-22 fix config bug [1]

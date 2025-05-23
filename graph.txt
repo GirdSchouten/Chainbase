@@ -4889,3 +4889,4 @@
 2025-05-23 add tests [9]
 2025-05-23 update docs with examples [10]
 2025-05-23 update metadata [11]
+2025-05-23 fix async issue [12]

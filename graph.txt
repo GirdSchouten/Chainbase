@@ -4882,3 +4882,4 @@
 2025-05-23 add example file [2]
 2025-05-23 fix misconfiguration [3]
 2025-05-23 stabilize build [4]
+2025-05-23 better error handling [5]

@@ -8551,3 +8551,4 @@
 2025-05-24 reformat code [42]
 2025-05-24 add example file [43]
 2025-05-24 improve UX [44]
+2025-05-24 fix null pointer [45]

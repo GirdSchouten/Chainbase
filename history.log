@@ -3,3 +3,4 @@
 2025-05-26 15:48:18 - update schema migration [3]
 2025-05-26 13:51:16 - adjust validation rules [4]
 2025-05-26 8:27:23 - update gitignore [5]
+2025-05-26 8:0:32 - add integration tests [6]

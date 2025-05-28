@@ -1183,3 +1183,4 @@
 2025-05-28 update docs with examples [2]
 2025-05-28 update dependencies [3]
 2025-05-28 fix timezone issue [4]
+2025-05-28 adjust error messages [5]

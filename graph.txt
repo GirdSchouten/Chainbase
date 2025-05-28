@@ -1180,3 +1180,4 @@
 2025-05-22 add unit tests [38]
 2025-05-22 improve caching [39]
 2025-05-28 update roadmap [1]
+2025-05-28 update docs with examples [2]

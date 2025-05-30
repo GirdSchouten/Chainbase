@@ -2348,3 +2348,4 @@
 2025-05-30 15:22:52 - update API docs [21]
 2025-05-30 12:18:41 - refactor tests [22]
 2025-05-30 11:7:45 - fix config bug [23]
+2025-05-30 17:8:48 - fix edge case [24]

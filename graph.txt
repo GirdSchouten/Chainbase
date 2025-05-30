@@ -1195,3 +1195,4 @@
 2025-05-30 stabilize build [1]
 2025-05-30 fix typo in docs [2]
 2025-05-30 reorganize files [3]
+2025-05-30 fix UI alignment [4]

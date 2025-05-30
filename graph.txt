@@ -1201,3 +1201,4 @@
 2025-05-30 improve UX [7]
 2025-05-30 improve performance [8]
 2025-05-30 update roadmap [9]
+2025-05-30 better error handling [10]

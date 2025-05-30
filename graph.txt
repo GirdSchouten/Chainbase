@@ -1197,3 +1197,4 @@
 2025-05-30 reorganize files [3]
 2025-05-30 fix UI alignment [4]
 2025-05-30 cleanup dependencies [5]
+2025-05-30 add helper function [6]

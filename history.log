@@ -4047,3 +4047,4 @@
 2025-05-31 17:2:24 - add integration tests [14]
 2025-05-31 16:39:45 - fix config bug [15]
 2025-05-31 14:3:44 - update schema migration [16]
+2025-05-31 17:14:5 - reduce complexity [17]

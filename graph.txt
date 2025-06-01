@@ -1207,3 +1207,4 @@
 2025-05-30 rebuild project [13]
 2025-05-30 simplify logic [14]
 2025-05-30 update build script [15]
+2025-06-01 enhance error reporting [1]

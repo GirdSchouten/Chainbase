@@ -1236,3 +1236,4 @@
 2025-06-01 minor refactor [27]
 2025-06-01 tweak configs [28]
 2025-06-01 fix typo in code [29]
+2025-06-01 improve security [30]

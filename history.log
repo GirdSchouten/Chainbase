@@ -9096,3 +9096,4 @@
 2025-01-23 18:0:2 - minor refactor [45]
 2025-01-23 15:57:11 - fix config bug [46]
 2025-06-01 12:11:0 - add sample data [1]
+2025-06-01 19:26:43 - fix encoding issue [2]

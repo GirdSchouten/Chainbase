@@ -1216,3 +1216,4 @@
 2025-06-01 better error handling [7]
 2025-06-01 improve performance [8]
 2025-06-01 update version [9]
+2025-06-01 fix encoding issue [10]

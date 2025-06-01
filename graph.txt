@@ -1209,3 +1209,4 @@
 2025-05-30 update build script [15]
 2025-06-01 enhance error reporting [1]
 2025-06-01 fix timezone issue [2]
+2025-06-01 update docs with examples [3]

@@ -1210,3 +1210,4 @@
 2025-06-01 enhance error reporting [1]
 2025-06-01 fix timezone issue [2]
 2025-06-01 update docs with examples [3]
+2025-06-01 remove unused code [4]

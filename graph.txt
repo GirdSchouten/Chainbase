@@ -1228,3 +1228,4 @@
 2025-06-01 fix crash issue [19]
 2025-06-01 update API keys [20]
 2025-06-01 fix warnings [21]
+2025-06-01 adjust validation rules [22]

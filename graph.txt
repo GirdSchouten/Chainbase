@@ -1213,3 +1213,4 @@
 2025-06-01 remove unused code [4]
 2025-06-01 reorganize files [5]
 2025-06-01 optimize queries [6]
+2025-06-01 better error handling [7]

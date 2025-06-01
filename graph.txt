@@ -1220,3 +1220,4 @@
 2025-06-01 UI improvements [11]
 2025-06-01 add logging [12]
 2025-06-01 enhance logging [13]
+2025-06-01 security patch [14]

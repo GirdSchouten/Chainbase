@@ -10665,3 +10665,4 @@
 2025-06-02 add example file [49]
 2025-06-02 add unit tests [50]
 2025-06-02 UI improvements [51]
+2025-06-02 fix build error [52]

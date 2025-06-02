@@ -10667,3 +10667,4 @@
 2025-06-02 UI improvements [51]
 2025-06-02 fix build error [52]
 2025-06-02 hotfix applied [53]
+2025-06-02 fix type error [54]

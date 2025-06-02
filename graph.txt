@@ -10661,3 +10661,4 @@
 2025-06-02 update linter rules [45]
 2025-06-02 upgrade dependencies [46]
 2025-06-02 minor changes [47]
+2025-06-02 change configuration [48]

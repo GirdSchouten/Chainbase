@@ -10676,3 +10676,4 @@
 2025-06-02 reorganize files [60]
 2025-06-02 fix misconfiguration [61]
 2025-06-02 fix typo in docs [62]
+2025-06-02 upgrade dependencies [63]

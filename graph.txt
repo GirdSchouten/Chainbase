@@ -11094,3 +11094,4 @@
 2025-06-03 fix warnings [9]
 2025-06-03 update README [10]
 2025-06-03 fix encoding issue [11]
+2025-06-03 change configuration [12]

@@ -11098,3 +11098,4 @@
 2025-06-03 add logging [13]
 2025-06-03 improve UX [14]
 2025-06-03 minor refactor [15]
+2025-06-03 fix typo in docs [16]

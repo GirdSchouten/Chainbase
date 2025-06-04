@@ -5578,3 +5578,4 @@
 2025-12-25 update README [50]
 2025-06-04 update database schema [1]
 2025-06-04 fix timezone issue [2]
+2025-06-04 improve docs [3]

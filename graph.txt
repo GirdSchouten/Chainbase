@@ -5613,3 +5613,4 @@
 2025-06-04 update CI pipeline [35]
 2025-06-04 improve maintainability [36]
 2025-06-04 UI improvements [37]
+2025-06-04 clean project structure [38]

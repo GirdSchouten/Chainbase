@@ -1250,3 +1250,4 @@
 2025-06-06 remove deprecated code [7]
 2025-06-06 enhance logging [8]
 2025-06-06 update build script [9]
+2025-06-06 fix crash issue [10]

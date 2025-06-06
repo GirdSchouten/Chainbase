@@ -1257,3 +1257,4 @@
 2025-06-06 patch memory leak [14]
 2025-06-06 minor refactor [15]
 2025-06-06 better error handling [16]
+2025-06-06 fix async issue [17]

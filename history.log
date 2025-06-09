@@ -830,3 +830,4 @@
 2025-06-29 9:39:22 - fix docker build [41]
 2025-06-29 12:26:52 - add unit tests [42]
 2025-06-29 9:13:38 - hotfix applied [43]
+2025-06-09 11:10:21 - fix encoding issue [1]

@@ -1684,3 +1684,4 @@
 2025-06-10 19:21:52 - add tests [51]
 2025-06-10 9:42:40 - update CI pipeline [52]
 2025-06-10 19:7:22 - change configuration [53]
+2025-06-10 13:20:47 - better error handling [54]

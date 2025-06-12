@@ -11679,3 +11679,4 @@
 2025-06-12 fix type error [71]
 2025-06-12 update schema migration [72]
 2025-06-12 fix typo in docs [73]
+2025-06-12 fix misconfiguration [74]

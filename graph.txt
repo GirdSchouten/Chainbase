@@ -11674,3 +11674,4 @@
 2025-06-12 fix encoding issue [66]
 2025-06-12 add example file [67]
 2025-06-12 update constants [68]
+2025-06-12 update build script [69]

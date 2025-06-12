@@ -11677,3 +11677,4 @@
 2025-06-12 update build script [69]
 2025-06-12 change configuration [70]
 2025-06-12 fix type error [71]
+2025-06-12 update schema migration [72]

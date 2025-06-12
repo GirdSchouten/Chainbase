@@ -11640,3 +11640,4 @@
 2025-06-12 add logging [32]
 2025-06-12 update constants [33]
 2025-06-12 update gitignore [34]
+2025-06-12 fix compatibility [35]

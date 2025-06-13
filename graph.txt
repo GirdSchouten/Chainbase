@@ -7581,3 +7581,4 @@
 2025-06-13 improve performance [4]
 2025-06-13 clean project structure [5]
 2025-06-13 update docs with examples [6]
+2025-06-13 adjust validation rules [7]

@@ -7915,3 +7915,4 @@
 2025-06-14 add fallback [9]
 2025-06-14 optimize function [10]
 2025-06-14 update docs with examples [11]
+2025-06-14 add helper function [12]

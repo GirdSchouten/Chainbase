@@ -1302,3 +1302,4 @@
 2025-06-14 adjust validation rules [7]
 2025-06-14 fix bug [8]
 2025-06-14 add integration tests [9]
+2025-06-14 better error handling [10]

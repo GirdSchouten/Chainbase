@@ -1299,3 +1299,4 @@
 2025-06-14 rollback changes [4]
 2025-06-14 fix config bug [5]
 2025-06-14 improve caching [6]
+2025-06-14 adjust validation rules [7]

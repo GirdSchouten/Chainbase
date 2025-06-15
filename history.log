@@ -15879,3 +15879,4 @@
 2025-06-15 9:57:0 - fix typo in docs [57]
 2025-06-15 17:8:52 - add TODOs [58]
 2025-06-15 17:1:48 - add unit tests [59]
+2025-06-15 9:10:8 - better error handling [60]

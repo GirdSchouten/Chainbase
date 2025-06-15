@@ -22809,3 +22809,4 @@
 2025-02-06 12:38:12 - hotfix applied [22]
 2025-06-15 10:6:38 - minor tweaks [1]
 2025-06-15 17:6:53 - update configs for prod [2]
+2025-06-15 11:7:59 - better error handling [3]

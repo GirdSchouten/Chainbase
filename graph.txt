@@ -1323,3 +1323,4 @@
 2025-06-18 hotfix applied [6]
 2025-06-18 update configs for prod [7]
 2025-06-18 fix async issue [8]
+2025-06-18 add helper function [9]

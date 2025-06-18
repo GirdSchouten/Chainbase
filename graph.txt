@@ -1326,3 +1326,4 @@
 2025-06-18 add helper function [9]
 2025-06-18 minor changes [10]
 2025-06-18 add fallback [11]
+2025-06-18 update docs with examples [12]

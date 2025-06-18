@@ -1335,3 +1335,4 @@
 2025-06-18 fix typo in docs [18]
 2025-06-18 update constants [19]
 2025-06-18 update LICENSE [20]
+2025-06-18 refactor code [21]

@@ -1343,3 +1343,4 @@
 2025-06-18 update configs [26]
 2025-06-18 update database schema [27]
 2025-06-18 adjust timeout [28]
+2025-06-18 remove legacy code [29]

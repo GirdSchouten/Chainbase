@@ -5993,3 +5993,4 @@
 2025-06-19 optimize function [32]
 2025-06-19 fix typo in docs [33]
 2025-06-19 minor refactor [34]
+2025-06-19 fix null pointer [35]

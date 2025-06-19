@@ -5980,3 +5980,4 @@
 2025-06-19 minor refactor [19]
 2025-06-19 stabilize build [20]
 2025-06-19 improve UX [21]
+2025-06-19 patch memory leak [22]

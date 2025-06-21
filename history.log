@@ -6247,3 +6247,4 @@
 2025-06-21 12:46:57 - update database schema [3]
 2025-06-21 17:34:23 - fix build error [4]
 2025-06-21 10:59:16 - update LICENSE [5]
+2025-06-21 10:34:15 - fix crash issue [6]

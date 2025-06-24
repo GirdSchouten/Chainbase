@@ -11940,3 +11940,4 @@
 2025-06-24 9:22:35 - fix CI errors [58]
 2025-06-24 11:0:59 - add integration tests [59]
 2025-06-24 19:47:0 - fix misconfiguration [60]
+2025-06-24 19:5:55 - better error handling [61]

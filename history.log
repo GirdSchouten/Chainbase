@@ -21812,3 +21812,4 @@
 2025-06-24 10:31:9 - improve logging format [14]
 2025-06-24 17:10:50 - add helper function [15]
 2025-06-24 11:17:29 - update schema migration [16]
+2025-06-24 15:50:17 - fix encoding issue [17]

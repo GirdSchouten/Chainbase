@@ -11894,3 +11894,4 @@
 2025-06-24 17:13:18 - update docs with examples [12]
 2025-06-24 18:8:17 - update version [13]
 2025-06-24 17:20:50 - add integration tests [14]
+2025-06-24 18:12:46 - fix config bug [15]

@@ -1398,3 +1398,4 @@
 2025-06-25 tweak configs [20]
 2025-06-25 reformat code [21]
 2025-06-25 clean project structure [22]
+2025-06-25 better error handling [23]

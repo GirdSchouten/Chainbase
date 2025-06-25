@@ -7160,3 +7160,4 @@
 2025-06-25 tweak configs [16]
 2025-06-25 add tests [17]
 2025-06-25 update configs [18]
+2025-06-25 update build script [19]

@@ -1392,3 +1392,4 @@
 2025-06-25 add helper function [14]
 2025-06-25 improve caching [15]
 2025-06-25 minor tweaks [16]
+2025-06-25 security patch [17]

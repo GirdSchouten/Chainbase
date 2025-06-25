@@ -1387,3 +1387,4 @@
 2025-06-25 initial commit [9]
 2025-06-25 improve maintainability [10]
 2025-06-25 improve logging format [11]
+2025-06-25 fix compatibility [12]

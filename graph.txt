@@ -1394,3 +1394,4 @@
 2025-06-25 minor tweaks [16]
 2025-06-25 security patch [17]
 2025-06-25 security patch [18]
+2025-06-25 better error handling [19]

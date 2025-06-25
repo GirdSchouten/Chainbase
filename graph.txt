@@ -7188,3 +7188,4 @@
 2025-06-25 UI improvements [44]
 2025-06-25 improve UX [45]
 2025-06-25 improve performance [46]
+2025-06-25 update configs for prod [47]

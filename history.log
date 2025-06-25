@@ -19067,3 +19067,4 @@
 2025-06-25 18:26:27 - fix typo in docs [12]
 2025-06-25 14:4:27 - update schema migration [13]
 2025-06-25 9:44:4 - upgrade dependencies [14]
+2025-06-25 16:33:37 - update configs for prod [15]

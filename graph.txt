@@ -7221,3 +7221,4 @@
 2025-06-25 add logging [77]
 2025-06-25 better defaults [78]
 2025-06-25 minor refactor [79]
+2025-06-25 fix CI errors [80]

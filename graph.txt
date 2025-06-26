@@ -1404,3 +1404,4 @@
 2025-06-26 update roadmap [1]
 2025-06-26 remove legacy code [2]
 2025-06-26 improve logging format [3]
+2025-06-26 rollback changes [4]

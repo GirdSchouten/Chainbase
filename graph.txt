@@ -1418,3 +1418,4 @@
 2025-06-26 enhance error reporting [15]
 2025-06-26 add tests [16]
 2025-06-26 hotfix applied [17]
+2025-06-26 simplify logic [18]

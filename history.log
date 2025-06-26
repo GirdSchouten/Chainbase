@@ -508,3 +508,4 @@
 2025-06-26 17:14:0 - remove deprecated code [13]
 2025-06-26 8:33:2 - add fallback [14]
 2025-06-26 11:8:44 - add tests [15]
+2025-06-26 13:53:25 - reduce complexity [16]

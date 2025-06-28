@@ -11326,3 +11326,4 @@
 2025-06-28 update LICENSE [4]
 2025-06-28 add sample data [5]
 2025-06-28 fix bug [6]
+2025-06-28 fix misconfiguration [7]

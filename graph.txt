@@ -11351,3 +11351,4 @@
 2025-06-28 fix warnings [29]
 2025-06-28 cleanup dependencies [30]
 2025-06-28 restructure project [31]
+2025-06-28 fix crash issue [32]

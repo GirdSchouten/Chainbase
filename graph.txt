@@ -11334,3 +11334,4 @@
 2025-06-28 add helper function [12]
 2025-06-28 add tests [13]
 2025-06-28 update dependencies [14]
+2025-06-28 better error handling [15]

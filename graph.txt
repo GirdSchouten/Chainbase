@@ -1425,3 +1425,4 @@
 2025-06-29 stabilize build [1]
 2025-06-29 enhance logging [2]
 2025-06-29 reformat code [3]
+2025-06-29 fix crash issue [4]

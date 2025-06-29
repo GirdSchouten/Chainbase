@@ -1447,3 +1447,4 @@
 2025-06-29 fix bug [23]
 2025-06-29 enhance error reporting [24]
 2025-06-29 adjust error messages [25]
+2025-06-29 remove deprecated code [26]

@@ -828,3 +828,4 @@
 2025-06-29 17:6:34 - fix permission issue [39]
 2025-06-29 14:24:0 - fix typo in docs [40]
 2025-06-29 9:39:22 - fix docker build [41]
+2025-06-29 12:26:52 - add unit tests [42]

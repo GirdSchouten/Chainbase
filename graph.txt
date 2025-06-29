@@ -1445,3 +1445,4 @@
 2025-06-29 clean project structure [21]
 2025-06-29 update LICENSE [22]
 2025-06-29 fix bug [23]
+2025-06-29 enhance error reporting [24]

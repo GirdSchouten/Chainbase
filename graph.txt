@@ -6084,3 +6084,4 @@
 2025-06-30 update gitignore [62]
 2025-06-30 reformat code [63]
 2025-06-30 fix config bug [64]
+2025-06-30 update docs with examples [65]

@@ -2223,3 +2223,4 @@
 2025-07-01 9:36:7 - fix typo in docs [21]
 2025-07-01 15:54:41 - fix config bug [22]
 2025-07-01 14:49:11 - fix timezone issue [23]
+2025-07-01 16:59:33 - better error handling [24]

@@ -2233,3 +2233,4 @@
 2025-07-01 11:21:41 - fix misconfiguration [31]
 2025-07-01 10:4:46 - small refactor [32]
 2025-07-01 15:46:48 - add unit tests [33]
+2025-07-01 19:7:28 - add helper function [34]

@@ -11521,3 +11521,4 @@
 2025-07-01 fix permission issue [12]
 2025-07-01 update constants [13]
 2025-07-01 update database schema [14]
+2025-07-01 change configuration [15]

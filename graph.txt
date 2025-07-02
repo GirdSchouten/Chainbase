@@ -3790,3 +3790,4 @@
 2025-02-03 add example file [34]
 2025-02-03 enhance error reporting [35]
 2025-07-02 enhance error reporting [1]
+2025-07-02 optimize queries [2]

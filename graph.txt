@@ -1471,3 +1471,4 @@
 2025-07-04 fix permission issue [11]
 2025-07-04 update gitignore [12]
 2025-07-04 change configuration [13]
+2025-07-04 improve logging format [14]

@@ -1468,3 +1468,4 @@
 2025-07-04 cleanup dependencies [8]
 2025-07-04 patch vulnerability [9]
 2025-07-04 fix crash issue [10]
+2025-07-04 fix permission issue [11]

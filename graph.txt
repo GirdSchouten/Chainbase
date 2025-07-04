@@ -1470,3 +1470,4 @@
 2025-07-04 fix crash issue [10]
 2025-07-04 fix permission issue [11]
 2025-07-04 update gitignore [12]
+2025-07-04 change configuration [13]

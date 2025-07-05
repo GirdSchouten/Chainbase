@@ -11002,3 +11002,4 @@
 2025-07-05 update LICENSE [59]
 2025-07-05 UI improvements [60]
 2025-07-05 update gitignore [61]
+2025-07-05 add fallback [62]

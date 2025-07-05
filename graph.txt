@@ -10988,3 +10988,4 @@
 2025-07-05 update API keys [45]
 2025-07-05 fix UI alignment [46]
 2025-07-05 remove legacy code [47]
+2025-07-05 update configs for prod [48]

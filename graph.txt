@@ -1475,3 +1475,4 @@
 2025-07-04 minor refactor [15]
 2025-07-05 restructure modules [1]
 2025-07-05 add changelog [2]
+2025-07-05 rebuild project [3]

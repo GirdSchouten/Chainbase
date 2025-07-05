@@ -10948,3 +10948,4 @@
 2025-07-05 enhance logging [5]
 2025-07-05 cleanup dependencies [6]
 2025-07-05 add example file [7]
+2025-07-05 adjust error messages [8]

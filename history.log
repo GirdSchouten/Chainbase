@@ -995,3 +995,4 @@
 2025-07-06 19:9:33 - add integration tests [36]
 2025-07-06 16:9:55 - add tests [37]
 2025-07-06 9:14:2 - minor refactor [38]
+2025-07-06 13:42:56 - fix docker build [39]

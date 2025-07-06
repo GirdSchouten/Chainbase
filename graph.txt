@@ -1492,3 +1492,4 @@
 2025-07-05 add integration tests [17]
 2025-07-06 reorganize files [1]
 2025-07-06 security patch [2]
+2025-07-06 fix misconfiguration [3]

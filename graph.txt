@@ -1500,3 +1500,4 @@
 2025-07-06 add example file [8]
 2025-07-06 better error handling [9]
 2025-07-06 cleanup dependencies [10]
+2025-07-06 add tests [11]

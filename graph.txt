@@ -1506,3 +1506,4 @@
 2025-07-06 cleanup code [14]
 2025-07-06 update API keys [15]
 2025-07-06 hotfix applied [16]
+2025-07-06 adjust validation rules [17]

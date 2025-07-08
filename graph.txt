@@ -8861,3 +8861,4 @@
 2025-07-08 improve logging format [39]
 2025-07-08 add integration tests [40]
 2025-07-08 add fallback [41]
+2025-07-08 update version [42]

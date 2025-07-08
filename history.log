@@ -290,3 +290,4 @@
 2025-07-08 18:7:26 - update API docs [21]
 2025-07-08 13:43:30 - minor changes [22]
 2025-07-08 19:34:21 - update schema migration [23]
+2025-07-08 16:26:22 - better error handling [24]

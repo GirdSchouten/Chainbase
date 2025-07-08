@@ -8835,3 +8835,4 @@
 2025-07-08 remove unused import [13]
 2025-07-08 better error handling [14]
 2025-07-08 update gitignore [15]
+2025-07-08 add helper function [16]

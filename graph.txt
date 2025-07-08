@@ -8836,3 +8836,4 @@
 2025-07-08 better error handling [14]
 2025-07-08 update gitignore [15]
 2025-07-08 add helper function [16]
+2025-07-08 improve logging format [17]

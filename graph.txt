@@ -8833,3 +8833,4 @@
 2025-07-08 adjust validation rules [11]
 2025-07-08 fix warnings [12]
 2025-07-08 remove unused import [13]
+2025-07-08 better error handling [14]

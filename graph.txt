@@ -8830,3 +8830,4 @@
 2025-07-08 update deployment script [8]
 2025-07-08 update constants [9]
 2025-07-08 reorganize files [10]
+2025-07-08 adjust validation rules [11]

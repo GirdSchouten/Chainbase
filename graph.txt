@@ -7847,3 +7847,4 @@
 2025-07-09 add TODOs [1]
 2025-07-09 update configs for prod [2]
 2025-07-09 improve docs [3]
+2025-07-09 adjust validation rules [4]

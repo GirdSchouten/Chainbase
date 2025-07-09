@@ -7860,3 +7860,4 @@
 2025-07-09 minor tweaks [14]
 2025-07-09 fix broken link [15]
 2025-07-09 update build script [16]
+2025-07-09 adjust validation rules [17]

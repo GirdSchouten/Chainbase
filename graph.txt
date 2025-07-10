@@ -1514,3 +1514,4 @@
 2025-07-10 add TODOs [4]
 2025-07-10 fix misconfiguration [5]
 2025-07-10 adjust validation rules [6]
+2025-07-10 better error handling [7]

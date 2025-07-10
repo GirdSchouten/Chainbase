@@ -910,3 +910,4 @@
 2025-06-09 8:22:40 - update constants [78]
 2025-06-09 13:44:3 - update dependencies [79]
 2025-07-10 17:40:35 - update deployment script [1]
+2025-07-10 8:5:22 - fix docker build [2]

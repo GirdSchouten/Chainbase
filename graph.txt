@@ -1544,3 +1544,4 @@
 2025-07-10 update gitignore [34]
 2025-07-10 update docs with examples [35]
 2025-07-10 fix crash issue [36]
+2025-07-10 minor refactor [37]

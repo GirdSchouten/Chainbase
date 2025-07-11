@@ -1564,3 +1564,4 @@
 2025-07-11 restructure project [16]
 2025-07-11 improve logging format [17]
 2025-07-11 fix crash issue [18]
+2025-07-11 stabilize build [19]

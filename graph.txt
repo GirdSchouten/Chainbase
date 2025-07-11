@@ -1570,3 +1570,4 @@
 2025-07-11 remove test code [22]
 2025-07-11 fix typo in docs [23]
 2025-07-11 add example file [24]
+2025-07-11 enhance logging [25]

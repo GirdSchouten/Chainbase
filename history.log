@@ -12973,3 +12973,4 @@
 2025-07-12 8:57:11 - update configs for prod [9]
 2025-07-12 18:29:4 - add changelog [10]
 2025-07-12 17:15:52 - reformat code [11]
+2025-07-12 16:12:54 - fix null pointer [12]

@@ -8945,3 +8945,4 @@
 2025-07-12 stabilize build [17]
 2025-07-12 add helper function [18]
 2025-07-12 update version [19]
+2025-07-12 UI improvements [20]

@@ -8971,3 +8971,4 @@
 2025-07-12 fix edge case [43]
 2025-07-12 fix crash issue [44]
 2025-07-12 improve security [45]
+2025-07-12 improve logging format [46]

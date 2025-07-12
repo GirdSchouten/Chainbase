@@ -12970,3 +12970,4 @@
 2025-07-12 12:55:5 - update schema migration [6]
 2025-07-12 18:53:46 - better error handling [7]
 2025-07-12 19:8:31 - fix typo in docs [8]
+2025-07-12 8:57:11 - update configs for prod [9]

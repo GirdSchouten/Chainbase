@@ -9764,3 +9764,4 @@
 2025-07-13 improve caching [32]
 2025-07-13 update LICENSE [33]
 2025-07-13 update configs [34]
+2025-07-13 improve logging format [35]

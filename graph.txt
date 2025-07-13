@@ -1609,3 +1609,4 @@
 2025-07-13 UI improvements [30]
 2025-07-13 upgrade dependencies [31]
 2025-07-13 fix warnings [32]
+2025-07-13 simplify logic [33]

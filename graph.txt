@@ -1606,3 +1606,4 @@
 2025-07-13 enhance logging [27]
 2025-07-13 update gitignore [28]
 2025-07-13 stabilize build [29]
+2025-07-13 UI improvements [30]

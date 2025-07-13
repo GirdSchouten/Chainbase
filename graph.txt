@@ -9781,3 +9781,4 @@
 2025-07-13 UI improvements [49]
 2025-07-13 improve logging format [50]
 2025-07-13 fix type error [51]
+2025-07-13 fix crash issue [52]

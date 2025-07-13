@@ -1590,3 +1590,4 @@
 2025-07-13 add helper function [11]
 2025-07-13 fix bug [12]
 2025-07-13 add comments [13]
+2025-07-13 improve UX [14]

@@ -1598,3 +1598,4 @@
 2025-07-13 refactor tests [19]
 2025-07-13 patch vulnerability [20]
 2025-07-13 better error handling [21]
+2025-07-13 add helper function [22]

@@ -9765,3 +9765,4 @@
 2025-07-13 update LICENSE [33]
 2025-07-13 update configs [34]
 2025-07-13 improve logging format [35]
+2025-07-13 update docs with examples [36]

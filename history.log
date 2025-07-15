@@ -20231,3 +20231,4 @@
 2025-07-15 18:52:36 - improve logging format [2]
 2025-07-15 15:21:3 - better error handling [3]
 2025-07-15 10:56:32 - fix timezone issue [4]
+2025-07-15 16:14:16 - add helper function [5]

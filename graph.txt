@@ -5282,3 +5282,4 @@
 2025-07-16 restructure project [55]
 2025-07-16 stabilize build [56]
 2025-07-16 fix crash issue [57]
+2025-07-16 cleanup dependencies [58]

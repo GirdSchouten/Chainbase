@@ -4627,3 +4627,4 @@
 2025-07-17 rebuild project [62]
 2025-07-17 better error handling [63]
 2025-07-17 fix UI alignment [64]
+2025-07-17 update README [65]

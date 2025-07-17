@@ -4589,3 +4589,4 @@
 2025-07-17 remove test code [24]
 2025-07-17 reduce complexity [25]
 2025-07-17 update docs with examples [26]
+2025-07-17 fix null pointer [27]

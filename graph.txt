@@ -4604,3 +4604,4 @@
 2025-07-17 update logging [39]
 2025-07-17 fix config bug [40]
 2025-07-17 add example file [41]
+2025-07-17 fix build error [42]

@@ -4629,3 +4629,4 @@
 2025-07-17 fix UI alignment [64]
 2025-07-17 update README [65]
 2025-07-17 add integration tests [66]
+2025-07-17 update LICENSE [67]

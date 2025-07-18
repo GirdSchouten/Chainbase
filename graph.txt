@@ -1628,3 +1628,4 @@
 2025-07-18 remove unused import [10]
 2025-07-18 update metadata [11]
 2025-07-18 update scripts [12]
+2025-07-18 simplify logic [13]

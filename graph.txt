@@ -8300,3 +8300,4 @@
 2025-07-19 hotfix applied [14]
 2025-07-19 update roadmap [15]
 2025-07-19 add unit tests [16]
+2025-07-19 better error handling [17]

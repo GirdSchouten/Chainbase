@@ -8297,3 +8297,4 @@
 2025-07-19 cleanup code [11]
 2025-07-19 fix docker build [12]
 2025-07-19 update docs with examples [13]
+2025-07-19 hotfix applied [14]

@@ -8329,3 +8329,4 @@
 2025-07-19 update build script [43]
 2025-07-19 update gitignore [44]
 2025-07-19 enhance error reporting [45]
+2025-07-19 fix null pointer [46]

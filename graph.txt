@@ -10879,3 +10879,4 @@
 2025-07-21 update schema migration [23]
 2025-07-21 add tests [24]
 2025-07-21 typo fix [25]
+2025-07-21 update docs with examples [26]

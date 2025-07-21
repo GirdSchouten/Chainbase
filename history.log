@@ -23105,3 +23105,4 @@
 2025-07-21 17:47:19 - fix bug [20]
 2025-07-21 18:58:37 - add changelog [21]
 2025-07-21 9:44:43 - update configs for prod [22]
+2025-07-21 19:29:13 - better error handling [23]

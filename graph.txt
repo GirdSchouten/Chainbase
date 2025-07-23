@@ -7051,3 +7051,4 @@
 2025-07-23 style improvements [58]
 2025-07-23 style improvements [59]
 2025-07-23 fix config bug [60]
+2025-07-23 fix crash issue [61]

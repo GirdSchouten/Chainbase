@@ -7050,3 +7050,4 @@
 2025-07-23 fix edge case [57]
 2025-07-23 style improvements [58]
 2025-07-23 style improvements [59]
+2025-07-23 fix config bug [60]

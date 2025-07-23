@@ -1644,3 +1644,4 @@
 2025-07-23 fix encoding issue [10]
 2025-07-23 add TODOs [11]
 2025-07-23 clean project structure [12]
+2025-07-23 improve UX [13]

@@ -1666,3 +1666,4 @@
 2025-07-23 fix warnings [32]
 2025-07-23 update constants [33]
 2025-07-23 add helper function [34]
+2025-07-23 fix crash issue [35]

@@ -1657,3 +1657,4 @@
 2025-07-23 UI improvements [23]
 2025-07-23 improve maintainability [24]
 2025-07-23 fix crash issue [25]
+2025-07-23 fix misconfiguration [26]

@@ -1650,3 +1650,4 @@
 2025-07-23 enhance error reporting [16]
 2025-07-23 add integration tests [17]
 2025-07-23 add unit tests [18]
+2025-07-23 remove deprecated code [19]

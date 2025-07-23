@@ -1646,3 +1646,4 @@
 2025-07-23 clean project structure [12]
 2025-07-23 improve UX [13]
 2025-07-23 fix warnings [14]
+2025-07-23 add TODOs [15]

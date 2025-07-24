@@ -8265,3 +8265,4 @@
 2025-07-24 UI improvements [41]
 2025-07-24 update constants [42]
 2025-07-24 fix typo in docs [43]
+2025-07-24 fix crash issue [44]

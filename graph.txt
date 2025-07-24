@@ -8270,3 +8270,4 @@
 2025-07-24 fix typo in docs [46]
 2025-07-24 fix misconfiguration [47]
 2025-07-24 add logging [48]
+2025-07-24 change configuration [49]

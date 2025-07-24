@@ -8251,3 +8251,4 @@
 2025-07-24 fix UI alignment [27]
 2025-07-24 update README [28]
 2025-07-24 update logging [29]
+2025-07-24 update version [30]

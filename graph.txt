@@ -8283,3 +8283,4 @@
 2025-07-24 adjust timeout [59]
 2025-07-24 minor refactor [60]
 2025-07-24 upgrade dependencies [61]
+2025-07-24 add integration tests [62]

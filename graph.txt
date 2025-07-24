@@ -8229,3 +8229,4 @@
 2025-07-24 fix typo in code [5]
 2025-07-24 add example file [6]
 2025-07-24 update configs for prod [7]
+2025-07-24 fix config bug [8]

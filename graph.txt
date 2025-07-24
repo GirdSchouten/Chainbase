@@ -8249,3 +8249,4 @@
 2025-07-24 improve security [25]
 2025-07-24 UI improvements [26]
 2025-07-24 fix UI alignment [27]
+2025-07-24 update README [28]

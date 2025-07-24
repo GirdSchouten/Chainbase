@@ -8222,3 +8222,4 @@
 2025-11-16 fix UI alignment [61]
 2025-11-16 improve caching [62]
 2025-11-16 fix build error [63]
+2025-07-24 cleanup dependencies [1]

@@ -8255,3 +8255,4 @@
 2025-07-24 fix config bug [31]
 2025-07-24 improve UX [32]
 2025-07-24 refactor tests [33]
+2025-07-24 fix null pointer [34]

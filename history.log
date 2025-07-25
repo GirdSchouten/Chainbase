@@ -21161,3 +21161,4 @@
 2025-07-25 13:25:6 - adjust error messages [5]
 2025-07-25 8:2:28 - update docs with examples [6]
 2025-07-25 18:51:9 - simplify logic [7]
+2025-07-25 18:55:32 - fix docker build [8]

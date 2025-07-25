@@ -1678,3 +1678,4 @@
 2025-07-25 better error handling [5]
 2025-07-25 fix typo in docs [6]
 2025-07-25 fix CI errors [7]
+2025-07-25 fix edge case [8]

@@ -15347,3 +15347,4 @@
 2025-07-25 18:27:16 - restructure modules [19]
 2025-07-25 13:53:19 - update docs with examples [20]
 2025-07-25 17:24:38 - fix encoding issue [21]
+2025-07-25 15:6:38 - fix docker build [22]

@@ -1673,3 +1673,4 @@
 2025-07-23 UI improvements [39]
 2025-07-25 fix typo in docs [1]
 2025-07-25 update configs for prod [2]
+2025-07-25 remove debug output [3]

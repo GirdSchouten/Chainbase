@@ -4673,3 +4673,4 @@
 2025-07-26 add tests [38]
 2025-07-26 enhance error reporting [39]
 2025-07-26 UI improvements [40]
+2025-07-26 fix crash issue [41]

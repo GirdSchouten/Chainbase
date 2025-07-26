@@ -4639,3 +4639,4 @@
 2025-07-26 restructure project [4]
 2025-07-26 update API docs [5]
 2025-07-26 fix crash issue [6]
+2025-07-26 fix config bug [7]

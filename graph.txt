@@ -4667,3 +4667,4 @@
 2025-07-26 enhance error reporting [32]
 2025-07-26 upgrade dependencies [33]
 2025-07-26 fix bug [34]
+2025-07-26 fix crash issue [35]

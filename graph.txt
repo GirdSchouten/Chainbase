@@ -4648,3 +4648,4 @@
 2025-07-26 cleanup code [13]
 2025-07-26 add changelog [14]
 2025-07-26 update LICENSE [15]
+2025-07-26 change configuration [16]

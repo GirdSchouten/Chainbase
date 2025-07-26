@@ -4671,3 +4671,4 @@
 2025-07-26 improve performance [36]
 2025-07-26 update LICENSE [37]
 2025-07-26 add tests [38]
+2025-07-26 enhance error reporting [39]

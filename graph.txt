@@ -4641,3 +4641,4 @@
 2025-07-26 fix crash issue [6]
 2025-07-26 fix config bug [7]
 2025-07-26 fix config bug [8]
+2025-07-26 improve UX [9]

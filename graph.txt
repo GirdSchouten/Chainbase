@@ -4659,3 +4659,4 @@
 2025-07-26 small refactor [24]
 2025-07-26 add changelog [25]
 2025-07-26 update database schema [26]
+2025-07-26 update build script [27]

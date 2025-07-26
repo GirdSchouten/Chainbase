@@ -4675,3 +4675,4 @@
 2025-07-26 UI improvements [40]
 2025-07-26 fix crash issue [41]
 2025-07-26 tweak configs [42]
+2025-07-26 fix permission issue [43]

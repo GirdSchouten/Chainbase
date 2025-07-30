@@ -1700,3 +1700,4 @@
 2025-07-30 improve caching [11]
 2025-07-30 update configs for prod [12]
 2025-07-30 add helper function [13]
+2025-07-30 better defaults [14]

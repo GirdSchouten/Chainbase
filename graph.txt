@@ -1703,3 +1703,4 @@
 2025-07-30 better defaults [14]
 2025-07-30 update README [15]
 2025-07-30 update comments [16]
+2025-07-30 patch vulnerability [17]

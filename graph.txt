@@ -1687,3 +1687,4 @@
 2025-07-25 cleanup code [14]
 2025-07-25 update database schema [15]
 2025-07-25 update API keys [16]
+2025-07-30 fix typo in docs [1]

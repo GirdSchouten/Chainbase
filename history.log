@@ -16159,3 +16159,4 @@
 2025-07-30 18:27:47 - improve logging format [14]
 2025-07-30 13:46:31 - fix config bug [15]
 2025-07-30 13:1:13 - fix UI alignment [16]
+2025-07-30 10:9:46 - add fallback [17]

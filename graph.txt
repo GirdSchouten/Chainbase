@@ -1712,3 +1712,4 @@
 2025-07-30 stabilize build [23]
 2025-07-30 improve logging format [24]
 2025-07-30 stabilize build [25]
+2025-07-30 update API docs [26]

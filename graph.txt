@@ -9943,3 +9943,4 @@
 2025-08-01 tweak configs [4]
 2025-08-01 improve UX [5]
 2025-08-01 improve docs [6]
+2025-08-01 style improvements [7]

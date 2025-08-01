@@ -9960,3 +9960,4 @@
 2025-08-01 update constants [21]
 2025-08-01 update schema migration [22]
 2025-08-01 add tests [23]
+2025-08-01 fix null pointer [24]

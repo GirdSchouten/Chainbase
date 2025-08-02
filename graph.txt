@@ -1748,3 +1748,4 @@
 2025-08-02 add example file [20]
 2025-08-02 rollback changes [21]
 2025-08-02 add changelog [22]
+2025-08-02 fix encoding issue [23]

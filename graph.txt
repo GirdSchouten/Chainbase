@@ -1736,3 +1736,4 @@
 2025-08-02 add example file [8]
 2025-08-02 add comments [9]
 2025-08-02 fix permission issue [10]
+2025-08-02 update build script [11]

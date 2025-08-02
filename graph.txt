@@ -1750,3 +1750,4 @@
 2025-08-02 add changelog [22]
 2025-08-02 fix encoding issue [23]
 2025-08-02 fix build error [24]
+2025-08-02 improve security [25]

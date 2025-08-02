@@ -1727,3 +1727,4 @@
 2025-07-30 update workflow [38]
 2025-07-30 security patch [39]
 2025-08-02 refactor tests [1]
+2025-08-02 fix compatibility [2]

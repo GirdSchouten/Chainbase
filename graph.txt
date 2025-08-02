@@ -1742,3 +1742,4 @@
 2025-08-02 hotfix applied [14]
 2025-08-02 experimental changes [15]
 2025-08-02 fix config bug [16]
+2025-08-02 optimize queries [17]

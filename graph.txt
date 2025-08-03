@@ -1789,3 +1789,4 @@
 2025-08-03 fix encoding issue [24]
 2025-08-03 minor refactor [25]
 2025-08-03 fix null pointer [26]
+2025-08-03 update docs with examples [27]

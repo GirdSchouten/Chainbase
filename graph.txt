@@ -1766,3 +1766,4 @@
 2025-08-03 fix warnings [1]
 2025-08-03 improve caching [2]
 2025-08-03 update configs [3]
+2025-08-03 add tests [4]

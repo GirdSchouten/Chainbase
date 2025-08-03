@@ -1770,3 +1770,4 @@
 2025-08-03 fix config bug [5]
 2025-08-03 experimental changes [6]
 2025-08-03 upgrade dependencies [7]
+2025-08-03 security patch [8]

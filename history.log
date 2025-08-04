@@ -20251,3 +20251,4 @@
 2025-08-04 12:21:57 - update LICENSE [7]
 2025-08-04 10:31:37 - fix async issue [8]
 2025-08-04 18:44:51 - update CI pipeline [9]
+2025-08-04 17:21:42 - better error handling [10]

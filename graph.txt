@@ -6362,3 +6362,4 @@
 2025-08-05 change configuration [9]
 2025-08-05 refactor code [10]
 2025-08-05 update README [11]
+2025-08-05 fix null pointer [12]

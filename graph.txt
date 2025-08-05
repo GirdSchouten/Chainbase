@@ -6379,3 +6379,4 @@
 2025-08-05 fix type error [26]
 2025-08-05 update roadmap [27]
 2025-08-05 update configs [28]
+2025-08-05 enhance error reporting [29]

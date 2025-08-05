@@ -6382,3 +6382,4 @@
 2025-08-05 enhance error reporting [29]
 2025-08-05 update README [30]
 2025-08-05 improve caching [31]
+2025-08-05 add integration tests [32]

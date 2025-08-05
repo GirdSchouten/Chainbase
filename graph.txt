@@ -6406,3 +6406,4 @@
 2025-08-05 rollback changes [53]
 2025-08-05 refactor code [54]
 2025-08-05 stabilize build [55]
+2025-08-05 add helper function [56]

@@ -1829,3 +1829,4 @@
 2025-08-07 improve logging format [26]
 2025-08-07 improve security [27]
 2025-08-07 fix CI errors [28]
+2025-08-07 fix misconfiguration [29]

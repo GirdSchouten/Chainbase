@@ -1824,3 +1824,4 @@
 2025-08-07 tweak configs [21]
 2025-08-07 update LICENSE [22]
 2025-08-07 enhance error reporting [23]
+2025-08-07 restructure modules [24]

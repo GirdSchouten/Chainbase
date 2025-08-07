@@ -1821,3 +1821,4 @@
 2025-08-07 update logging [18]
 2025-08-07 improve caching [19]
 2025-08-07 remove legacy code [20]
+2025-08-07 tweak configs [21]

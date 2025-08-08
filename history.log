@@ -6924,3 +6924,4 @@
 2025-08-08 11:1:0 - improve logging format [23]
 2025-08-08 12:0:17 - improve caching [24]
 2025-08-08 14:50:22 - fix misconfiguration [25]
+2025-08-08 8:53:23 - update schema migration [26]

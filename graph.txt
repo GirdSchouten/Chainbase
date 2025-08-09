@@ -10081,3 +10081,4 @@
 2025-08-09 enhance error reporting [33]
 2025-08-09 remove unused code [34]
 2025-08-09 UI improvements [35]
+2025-08-09 update schema migration [36]

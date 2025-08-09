@@ -10103,3 +10103,4 @@
 2025-08-09 remove deprecated code [55]
 2025-08-09 update build script [56]
 2025-08-09 experimental changes [57]
+2025-08-09 better error handling [58]

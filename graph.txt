@@ -10071,3 +10071,4 @@
 2025-08-09 fix CI errors [23]
 2025-08-09 adjust timeout [24]
 2025-08-09 add comments [25]
+2025-08-09 update schema migration [26]

@@ -10050,3 +10050,4 @@
 2025-08-09 temporary fix [2]
 2025-08-09 fix typo in code [3]
 2025-08-09 update feature [4]
+2025-08-09 add helper function [5]

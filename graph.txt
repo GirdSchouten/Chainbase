@@ -10561,3 +10561,4 @@
 2025-08-10 add helper function [5]
 2025-08-10 minor refactor [6]
 2025-08-10 enhance logging [7]
+2025-08-10 add fallback [8]

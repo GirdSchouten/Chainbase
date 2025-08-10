@@ -10565,3 +10565,4 @@
 2025-08-10 adjust validation rules [9]
 2025-08-10 update docs with examples [10]
 2025-08-10 better error handling [11]
+2025-08-10 update constants [12]

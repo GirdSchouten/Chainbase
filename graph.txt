@@ -10591,3 +10591,4 @@
 2025-08-10 fix CI errors [35]
 2025-08-10 fix typo in docs [36]
 2025-08-10 update linter rules [37]
+2025-08-10 fix build error [38]

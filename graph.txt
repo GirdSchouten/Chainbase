@@ -10608,3 +10608,4 @@
 2025-08-10 add tests [52]
 2025-08-10 rollback changes [53]
 2025-08-10 fix edge case [54]
+2025-08-10 better error handling [55]

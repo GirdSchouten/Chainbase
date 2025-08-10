@@ -10569,3 +10569,4 @@
 2025-08-10 update API docs [13]
 2025-08-10 reduce complexity [14]
 2025-08-10 add integration tests [15]
+2025-08-10 add helper function [16]

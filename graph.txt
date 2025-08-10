@@ -10590,3 +10590,4 @@
 2025-08-10 add example file [34]
 2025-08-10 fix CI errors [35]
 2025-08-10 fix typo in docs [36]
+2025-08-10 update linter rules [37]

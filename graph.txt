@@ -3861,3 +3861,4 @@
 2025-08-13 fix compatibility [23]
 2025-08-13 improve caching [24]
 2025-08-13 minor refactor [25]
+2025-08-13 update logging [26]

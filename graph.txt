@@ -3896,3 +3896,4 @@
 2025-08-13 restructure project [58]
 2025-08-13 add example file [59]
 2025-08-13 restructure modules [60]
+2025-08-13 fix build error [61]

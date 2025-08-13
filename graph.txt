@@ -3849,3 +3849,4 @@
 2025-08-13 improve security [11]
 2025-08-13 improve caching [12]
 2025-08-13 small refactor [13]
+2025-08-13 add helper function [14]

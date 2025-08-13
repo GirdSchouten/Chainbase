@@ -3907,3 +3907,4 @@
 2025-08-13 initial commit [69]
 2025-08-13 fix typo in code [70]
 2025-08-13 enhance logging [71]
+2025-08-13 add helper function [72]

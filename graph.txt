@@ -3839,3 +3839,4 @@
 2025-08-13 simplify logic [1]
 2025-08-13 small refactor [2]
 2025-08-13 UI improvements [3]
+2025-08-13 restructure modules [4]

@@ -9492,3 +9492,4 @@
 2025-08-13 9:0:45 - update database schema [14]
 2025-08-13 17:35:4 - update comments [15]
 2025-08-13 8:59:58 - update configs for prod [16]
+2025-08-13 19:9:7 - fix async issue [17]

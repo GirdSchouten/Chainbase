@@ -5651,3 +5651,4 @@
 2025-08-14 fix typo in code [31]
 2025-08-14 improve logging format [32]
 2025-08-14 update build script [33]
+2025-08-14 adjust validation rules [34]

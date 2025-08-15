@@ -1874,3 +1874,4 @@
 2025-08-15 clean project structure [12]
 2025-08-15 simplify logic [13]
 2025-08-15 improve caching [14]
+2025-08-15 improve docs [15]

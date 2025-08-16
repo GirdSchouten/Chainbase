@@ -1917,3 +1917,4 @@
 2025-08-16 restructure project [29]
 2025-08-16 stabilize build [30]
 2025-08-16 enhance error reporting [31]
+2025-08-16 fix build error [32]

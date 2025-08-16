@@ -1907,3 +1907,4 @@
 2025-08-16 clean project structure [19]
 2025-08-16 improve caching [20]
 2025-08-16 update schema migration [21]
+2025-08-16 fix crash issue [22]

@@ -1906,3 +1906,4 @@
 2025-08-16 remove legacy code [18]
 2025-08-16 clean project structure [19]
 2025-08-16 improve caching [20]
+2025-08-16 update schema migration [21]

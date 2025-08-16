@@ -1915,3 +1915,4 @@
 2025-08-16 fix crash issue [27]
 2025-08-16 update gitignore [28]
 2025-08-16 restructure project [29]
+2025-08-16 stabilize build [30]

@@ -1903,3 +1903,4 @@
 2025-08-16 improve security [15]
 2025-08-16 fix edge case [16]
 2025-08-16 update API keys [17]
+2025-08-16 remove legacy code [18]

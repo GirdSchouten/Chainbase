@@ -1935,3 +1935,4 @@
 2025-08-17 reformat code [11]
 2025-08-17 update configs for prod [12]
 2025-08-17 add changelog [13]
+2025-08-17 add unit tests [14]

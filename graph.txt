@@ -5716,3 +5716,4 @@
 2025-08-17 update database schema [52]
 2025-08-17 update headers [53]
 2025-08-17 add tests [54]
+2025-08-17 fix compatibility [55]

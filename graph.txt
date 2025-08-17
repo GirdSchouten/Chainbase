@@ -1927,3 +1927,4 @@
 2025-08-17 adjust error messages [3]
 2025-08-17 adjust validation rules [4]
 2025-08-17 change configuration [5]
+2025-08-17 update LICENSE [6]

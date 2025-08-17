@@ -1925,3 +1925,4 @@
 2025-08-17 add TODOs [1]
 2025-08-17 reorganize files [2]
 2025-08-17 adjust error messages [3]
+2025-08-17 adjust validation rules [4]

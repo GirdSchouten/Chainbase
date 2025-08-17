@@ -5719,3 +5719,4 @@
 2025-08-17 fix compatibility [55]
 2025-08-17 update gitignore [56]
 2025-08-17 add example file [57]
+2025-08-17 update configs [58]

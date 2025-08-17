@@ -1937,3 +1937,4 @@
 2025-08-17 add changelog [13]
 2025-08-17 add unit tests [14]
 2025-08-17 enhance logging [15]
+2025-08-17 improve security [16]

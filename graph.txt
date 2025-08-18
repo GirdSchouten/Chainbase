@@ -8913,3 +8913,4 @@
 2025-08-18 adjust error messages [26]
 2025-08-18 fix timezone issue [27]
 2025-08-18 add helper function [28]
+2025-08-18 update docs with examples [29]

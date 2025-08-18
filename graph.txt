@@ -8897,3 +8897,4 @@
 2025-08-18 reformat code [10]
 2025-08-18 patch memory leak [11]
 2025-08-18 improve security [12]
+2025-08-18 fix encoding issue [13]

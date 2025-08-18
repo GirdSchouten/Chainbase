@@ -8896,3 +8896,4 @@
 2025-08-18 fix crash issue [9]
 2025-08-18 reformat code [10]
 2025-08-18 patch memory leak [11]
+2025-08-18 improve security [12]

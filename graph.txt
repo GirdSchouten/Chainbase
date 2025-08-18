@@ -8917,3 +8917,4 @@
 2025-08-18 update database schema [30]
 2025-08-18 optimize queries [31]
 2025-08-18 add changelog [32]
+2025-08-18 add TODOs [33]

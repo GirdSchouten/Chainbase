@@ -6867,3 +6867,4 @@
 2025-08-19 restructure modules [17]
 2025-08-19 add integration tests [18]
 2025-08-19 fix build error [19]
+2025-08-19 update LICENSE [20]

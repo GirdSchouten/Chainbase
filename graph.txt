@@ -6875,3 +6875,4 @@
 2025-08-19 adjust validation rules [25]
 2025-08-19 experimental changes [26]
 2025-08-19 better error handling [27]
+2025-08-19 fix CI errors [28]

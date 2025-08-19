@@ -6899,3 +6899,4 @@
 2025-08-19 update feature [49]
 2025-08-19 hotfix applied [50]
 2025-08-19 fix CI errors [51]
+2025-08-19 update build script [52]

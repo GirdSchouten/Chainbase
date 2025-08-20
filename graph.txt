@@ -11781,3 +11781,4 @@
 2025-08-20 initial commit [46]
 2025-08-20 improve logging format [47]
 2025-08-20 experimental changes [48]
+2025-08-20 fix null pointer [49]

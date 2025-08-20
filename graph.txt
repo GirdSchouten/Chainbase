@@ -11794,3 +11794,4 @@
 2025-08-20 upgrade dependencies [59]
 2025-08-20 update API docs [60]
 2025-08-20 change configuration [61]
+2025-08-20 enhance error reporting [62]

@@ -1992,3 +1992,4 @@
 2025-08-21 minor refactor [26]
 2025-08-21 fix typo in docs [27]
 2025-08-21 update docs with examples [28]
+2025-08-21 adjust timeout [29]

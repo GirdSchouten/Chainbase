@@ -1972,3 +1972,4 @@
 2025-08-21 add comments [6]
 2025-08-21 temporary fix [7]
 2025-08-21 add helper function [8]
+2025-08-21 improve UX [9]

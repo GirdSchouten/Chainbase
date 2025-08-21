@@ -1983,3 +1983,4 @@
 2025-08-21 fix typo in docs [17]
 2025-08-21 fix misconfiguration [18]
 2025-08-21 fix typo in docs [19]
+2025-08-21 security patch [20]

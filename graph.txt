@@ -1979,3 +1979,4 @@
 2025-08-21 fix misconfiguration [13]
 2025-08-21 update configs for prod [14]
 2025-08-21 update dependencies [15]
+2025-08-21 small refactor [16]

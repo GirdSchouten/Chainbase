@@ -1999,3 +1999,4 @@
 2025-08-21 reorganize files [33]
 2025-08-21 optimize queries [34]
 2025-08-21 upgrade dependencies [35]
+2025-08-21 add integration tests [36]

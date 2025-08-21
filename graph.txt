@@ -1982,3 +1982,4 @@
 2025-08-21 small refactor [16]
 2025-08-21 fix typo in docs [17]
 2025-08-21 fix misconfiguration [18]
+2025-08-21 fix typo in docs [19]

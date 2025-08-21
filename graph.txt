@@ -1974,3 +1974,4 @@
 2025-08-21 add helper function [8]
 2025-08-21 improve UX [9]
 2025-08-21 update LICENSE [10]
+2025-08-21 patch vulnerability [11]

@@ -2021,3 +2021,4 @@
 2025-08-22 enhance logging [15]
 2025-08-22 experimental changes [16]
 2025-08-22 add integration tests [17]
+2025-08-22 reduce complexity [18]

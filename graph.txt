@@ -2004,3 +2004,4 @@
 2025-08-21 fix build error [38]
 2025-08-21 add TODOs [39]
 2025-08-21 style improvements [40]
+2025-08-22 remove legacy code [1]

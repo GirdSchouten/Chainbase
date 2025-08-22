@@ -2039,3 +2039,4 @@
 2025-08-22 improve UX [33]
 2025-08-22 update LICENSE [34]
 2025-08-22 update database schema [35]
+2025-08-22 adjust error messages [36]

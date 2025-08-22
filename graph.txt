@@ -11696,3 +11696,4 @@
 2025-08-22 update CI pipeline [9]
 2025-08-22 small refactor [10]
 2025-08-22 add example file [11]
+2025-08-22 upgrade dependencies [12]

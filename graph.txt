@@ -2024,3 +2024,4 @@
 2025-08-22 reduce complexity [18]
 2025-08-22 update schema migration [19]
 2025-08-22 update API keys [20]
+2025-08-22 adjust validation rules [21]

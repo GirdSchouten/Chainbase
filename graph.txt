@@ -11692,3 +11692,4 @@
 2025-08-22 fix encoding issue [5]
 2025-08-22 update version [6]
 2025-08-22 add fallback [7]
+2025-08-22 hotfix applied [8]

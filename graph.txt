@@ -2028,3 +2028,4 @@
 2025-08-22 fix timezone issue [22]
 2025-08-22 fix typo in docs [23]
 2025-08-22 add unit tests [24]
+2025-08-22 fix UI alignment [25]

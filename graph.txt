@@ -11720,3 +11720,4 @@
 2025-08-22 update API endpoints [33]
 2025-08-22 update API keys [34]
 2025-08-22 fix typo in code [35]
+2025-08-22 adjust validation rules [36]

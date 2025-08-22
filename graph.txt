@@ -11694,3 +11694,4 @@
 2025-08-22 add fallback [7]
 2025-08-22 hotfix applied [8]
 2025-08-22 update CI pipeline [9]
+2025-08-22 small refactor [10]

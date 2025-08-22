@@ -11724,3 +11724,4 @@
 2025-08-22 UI improvements [37]
 2025-08-22 fix edge case [38]
 2025-08-22 improve maintainability [39]
+2025-08-22 fix encoding issue [40]

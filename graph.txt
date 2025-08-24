@@ -2058,3 +2058,4 @@
 2025-08-24 reduce complexity [16]
 2025-08-24 add tests [17]
 2025-08-24 small refactor [18]
+2025-08-24 fix type error [19]

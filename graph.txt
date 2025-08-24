@@ -2040,3 +2040,4 @@
 2025-08-22 update LICENSE [34]
 2025-08-22 update database schema [35]
 2025-08-22 adjust error messages [36]
+2025-08-24 fix misconfiguration [1]

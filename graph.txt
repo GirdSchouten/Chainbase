@@ -2064,3 +2064,4 @@
 2025-08-24 update comments [22]
 2025-08-24 enhance logging [23]
 2025-08-24 update roadmap [24]
+2025-08-24 clean project structure [25]

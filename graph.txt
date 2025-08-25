@@ -9552,3 +9552,4 @@
 2025-08-25 add unit tests [20]
 2025-08-25 add sample data [21]
 2025-08-25 fix CI errors [22]
+2025-08-25 add helper function [23]

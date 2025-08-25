@@ -9548,3 +9548,4 @@
 2025-08-25 temporary fix [16]
 2025-08-25 update README [17]
 2025-08-25 rollback changes [18]
+2025-08-25 simplify logic [19]

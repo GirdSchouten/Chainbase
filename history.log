@@ -2408,3 +2408,4 @@
 2025-08-25 10:36:4 - fix crash issue [16]
 2025-08-25 16:16:37 - experimental changes [17]
 2025-08-25 17:44:14 - fix encoding issue [18]
+2025-08-25 11:31:47 - better error handling [19]

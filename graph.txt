@@ -6346,3 +6346,4 @@
 2025-08-26 cleanup code [48]
 2025-08-26 update configs [49]
 2025-08-26 fix bug [50]
+2025-08-26 better error handling [51]

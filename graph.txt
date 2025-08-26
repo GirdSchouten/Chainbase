@@ -6329,3 +6329,4 @@
 2025-08-26 update docs with examples [31]
 2025-08-26 minor refactor [32]
 2025-08-26 add integration tests [33]
+2025-08-26 stabilize build [34]

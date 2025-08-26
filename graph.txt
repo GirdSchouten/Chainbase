@@ -6321,3 +6321,4 @@
 2025-08-26 update version [23]
 2025-08-26 style improvements [24]
 2025-08-26 add TODOs [25]
+2025-08-26 update API docs [26]

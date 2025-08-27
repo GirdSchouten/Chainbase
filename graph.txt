@@ -2108,3 +2108,4 @@
 2025-08-27 fix typo in docs [30]
 2025-08-27 adjust timeout [31]
 2025-08-27 better error handling [32]
+2025-08-27 fix async issue [33]

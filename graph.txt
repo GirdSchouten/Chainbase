@@ -2099,3 +2099,4 @@
 2025-08-27 style improvements [21]
 2025-08-27 tweak configs [22]
 2025-08-27 restructure project [23]
+2025-08-27 update gitignore [24]

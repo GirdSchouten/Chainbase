@@ -2105,3 +2105,4 @@
 2025-08-27 upgrade dependencies [27]
 2025-08-27 update version [28]
 2025-08-27 minor refactor [29]
+2025-08-27 fix typo in docs [30]

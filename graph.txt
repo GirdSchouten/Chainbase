@@ -2101,3 +2101,4 @@
 2025-08-27 restructure project [23]
 2025-08-27 update gitignore [24]
 2025-08-27 UI improvements [25]
+2025-08-27 update linter rules [26]

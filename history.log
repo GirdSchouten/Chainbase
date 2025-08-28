@@ -8819,3 +8819,4 @@
 2025-08-28 18:6:55 - update configs for prod [14]
 2025-08-28 18:51:46 - fix CI errors [15]
 2025-08-28 14:45:22 - remove unused code [16]
+2025-08-28 18:34:30 - improve logging format [17]

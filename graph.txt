@@ -2138,3 +2138,4 @@
 2025-08-29 fix misconfiguration [22]
 2025-08-29 stabilize build [23]
 2025-08-29 fix build error [24]
+2025-08-29 update deployment script [25]

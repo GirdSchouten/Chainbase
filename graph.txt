@@ -2137,3 +2137,4 @@
 2025-08-29 update database schema [21]
 2025-08-29 fix misconfiguration [22]
 2025-08-29 stabilize build [23]
+2025-08-29 fix build error [24]

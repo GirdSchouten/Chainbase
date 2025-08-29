@@ -2128,3 +2128,4 @@
 2025-08-29 better error handling [12]
 2025-08-29 add fallback [13]
 2025-08-29 update constants [14]
+2025-08-29 improve UX [15]

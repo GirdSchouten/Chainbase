@@ -2116,3 +2116,4 @@
 2025-08-27 rebuild project [38]
 2025-08-29 remove deprecated code [1]
 2025-08-29 remove unused import [2]
+2025-08-29 add fallback [3]

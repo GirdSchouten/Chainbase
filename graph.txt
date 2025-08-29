@@ -2118,3 +2118,4 @@
 2025-08-29 remove unused import [2]
 2025-08-29 add fallback [3]
 2025-08-29 stabilize build [4]
+2025-08-29 add helper function [5]

@@ -2114,3 +2114,4 @@
 2025-08-27 fix UI alignment [36]
 2025-08-27 stabilize build [37]
 2025-08-27 rebuild project [38]
+2025-08-29 remove deprecated code [1]

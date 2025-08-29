@@ -2124,3 +2124,4 @@
 2025-08-29 add helper function [8]
 2025-08-29 update roadmap [9]
 2025-08-29 add tests [10]
+2025-08-29 patch vulnerability [11]

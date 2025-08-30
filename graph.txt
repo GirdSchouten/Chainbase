@@ -11504,3 +11504,4 @@
 2025-08-30 simplify logic [26]
 2025-08-30 fix merge conflicts [27]
 2025-08-30 remove deprecated code [28]
+2025-08-30 fix null pointer [29]

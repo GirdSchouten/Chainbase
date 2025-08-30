@@ -11479,3 +11479,4 @@
 2025-08-30 restructure project [1]
 2025-08-30 update database schema [2]
 2025-08-30 tweak configs [3]
+2025-08-30 reorganize files [4]

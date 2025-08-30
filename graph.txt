@@ -11496,3 +11496,4 @@
 2025-08-30 update deployment script [18]
 2025-08-30 update deployment script [19]
 2025-08-30 update deployment script [20]
+2025-08-30 update database schema [21]

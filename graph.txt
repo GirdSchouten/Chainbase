@@ -11482,3 +11482,4 @@
 2025-08-30 reorganize files [4]
 2025-08-30 update CI pipeline [5]
 2025-08-30 fix warnings [6]
+2025-08-30 better error handling [7]

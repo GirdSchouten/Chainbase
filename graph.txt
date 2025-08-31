@@ -4803,3 +4803,4 @@
 2025-08-31 increase test coverage [57]
 2025-08-31 update version [58]
 2025-08-31 clean project structure [59]
+2025-08-31 change configuration [60]

@@ -2155,3 +2155,4 @@
 2025-08-31 clean project structure [14]
 2025-08-31 fix typo in code [15]
 2025-08-31 add changelog [16]
+2025-08-31 cleanup dependencies [17]

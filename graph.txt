@@ -4767,3 +4767,4 @@
 2025-08-31 UI improvements [21]
 2025-08-31 fix config bug [22]
 2025-08-31 remove test code [23]
+2025-08-31 update docs with examples [24]

@@ -2176,3 +2176,4 @@
 2025-08-31 update version [35]
 2025-08-31 update docs with examples [36]
 2025-08-31 improve UX [37]
+2025-08-31 add sample data [38]

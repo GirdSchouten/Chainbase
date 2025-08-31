@@ -2140,3 +2140,4 @@
 2025-08-29 fix build error [24]
 2025-08-29 update deployment script [25]
 2025-08-31 update feature [1]
+2025-08-31 fix crash issue [2]

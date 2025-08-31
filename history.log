@@ -13596,3 +13596,4 @@
 2025-08-31 12:28:8 - improve caching [9]
 2025-08-31 15:56:58 - fix compatibility [10]
 2025-08-31 16:17:10 - update headers [11]
+2025-08-31 18:50:26 - remove legacy code [12]

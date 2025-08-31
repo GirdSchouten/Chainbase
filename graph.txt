@@ -2175,3 +2175,4 @@
 2025-08-31 update roadmap [34]
 2025-08-31 update version [35]
 2025-08-31 update docs with examples [36]
+2025-08-31 improve UX [37]

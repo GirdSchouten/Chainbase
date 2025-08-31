@@ -4804,3 +4804,4 @@
 2025-08-31 update version [58]
 2025-08-31 clean project structure [59]
 2025-08-31 change configuration [60]
+2025-08-31 fix encoding issue [61]

@@ -2163,3 +2163,4 @@
 2025-08-31 fix null pointer [22]
 2025-08-31 add sample data [23]
 2025-08-31 update build script [24]
+2025-08-31 change configuration [25]

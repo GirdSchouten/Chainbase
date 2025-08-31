@@ -2143,3 +2143,4 @@
 2025-08-31 fix crash issue [2]
 2025-08-31 clean project structure [3]
 2025-08-31 better error handling [4]
+2025-08-31 fix encoding issue [5]

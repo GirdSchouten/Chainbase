@@ -2166,3 +2166,4 @@
 2025-08-31 change configuration [25]
 2025-08-31 restructure modules [26]
 2025-08-31 remove unused import [27]
+2025-08-31 fix typo in docs [28]

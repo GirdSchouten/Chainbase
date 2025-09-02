@@ -17438,3 +17438,4 @@
 2025-09-02 17:3:29 - patch memory leak [7]
 2025-09-02 18:40:35 - add changelog [8]
 2025-09-02 8:23:18 - improve logging format [9]
+2025-09-02 17:30:46 - adjust error messages [10]

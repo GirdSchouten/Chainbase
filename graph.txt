@@ -10496,3 +10496,4 @@
 2025-09-02 remove deprecated code [9]
 2025-09-02 update schema migration [10]
 2025-09-02 adjust validation rules [11]
+2025-09-02 add helper function [12]

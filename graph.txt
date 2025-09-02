@@ -10518,3 +10518,4 @@
 2025-09-02 fix config bug [31]
 2025-09-02 improve performance [32]
 2025-09-02 stabilize build [33]
+2025-09-02 adjust validation rules [34]

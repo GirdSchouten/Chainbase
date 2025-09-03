@@ -2188,3 +2188,4 @@
 2025-09-03 minor refactor [9]
 2025-09-03 update LICENSE [10]
 2025-09-03 enhance logging [11]
+2025-09-03 improve UX [12]

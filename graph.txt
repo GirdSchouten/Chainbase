@@ -5301,3 +5301,4 @@
 2025-09-04 update schema migration [10]
 2025-09-04 fix type error [11]
 2025-09-04 restructure modules [12]
+2025-09-04 fix null pointer [13]

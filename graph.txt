@@ -5338,3 +5338,4 @@
 2025-09-04 restructure project [47]
 2025-09-04 update API endpoints [48]
 2025-09-04 fix warnings [49]
+2025-09-04 adjust error messages [50]

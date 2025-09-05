@@ -21094,3 +21094,4 @@
 2025-09-05 14:44:53 - update README [12]
 2025-09-05 17:54:26 - fix encoding issue [13]
 2025-09-05 10:1:30 - fix edge case [14]
+2025-09-05 19:14:20 - add helper function [15]

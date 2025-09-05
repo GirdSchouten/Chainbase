@@ -14084,3 +14084,4 @@
 2025-09-05 16:4:24 - fix crash issue [18]
 2025-09-05 17:37:27 - update docs with examples [19]
 2025-09-05 17:1:39 - refactor tests [20]
+2025-09-05 9:11:35 - add helper function [21]

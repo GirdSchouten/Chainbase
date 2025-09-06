@@ -11119,3 +11119,4 @@
 2025-09-06 hotfix applied [1]
 2025-09-06 add sample data [2]
 2025-09-06 fix async issue [3]
+2025-09-06 add helper function [4]

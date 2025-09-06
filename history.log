@@ -20749,3 +20749,4 @@
 2025-09-06 16:13:8 - fix build error [8]
 2025-09-06 15:5:11 - update API docs [9]
 2025-09-06 12:14:23 - remove unused import [10]
+2025-09-06 18:12:6 - better error handling [11]

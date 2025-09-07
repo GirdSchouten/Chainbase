@@ -3717,3 +3717,4 @@
 2025-09-07 update schema migration [7]
 2025-09-07 better error handling [8]
 2025-09-07 hotfix applied [9]
+2025-09-07 restructure project [10]

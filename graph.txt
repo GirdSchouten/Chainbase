@@ -3716,3 +3716,4 @@
 2025-09-07 fix build error [6]
 2025-09-07 update schema migration [7]
 2025-09-07 better error handling [8]
+2025-09-07 hotfix applied [9]

@@ -10108,3 +10108,4 @@
 2025-09-09 14:19:54 - fix UI alignment [26]
 2025-09-09 16:59:12 - refactor tests [27]
 2025-09-09 15:49:52 - fix build error [28]
+2025-09-09 17:52:48 - add helper function [29]

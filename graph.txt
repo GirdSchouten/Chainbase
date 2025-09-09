@@ -4198,3 +4198,4 @@
 2025-01-28 fix async issue [48]
 2025-09-09 UI improvements [1]
 2025-09-09 update workflow [2]
+2025-09-09 change configuration [3]

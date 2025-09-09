@@ -4231,3 +4231,4 @@
 2025-09-09 fix warnings [33]
 2025-09-09 fix crash issue [34]
 2025-09-09 remove deprecated code [35]
+2025-09-09 fix CI errors [36]

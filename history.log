@@ -8487,3 +8487,4 @@
 2025-09-10 14:58:28 - remove unused import [32]
 2025-09-10 19:37:26 - improve docs [33]
 2025-09-10 8:37:10 - add tests [34]
+2025-09-10 13:48:39 - adjust error messages [35]

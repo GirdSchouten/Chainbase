@@ -4376,3 +4376,4 @@
 2025-09-12 hotfix applied [33]
 2025-09-12 fix warnings [34]
 2025-09-12 fix permission issue [35]
+2025-09-12 update CI pipeline [36]

@@ -4360,3 +4360,4 @@
 2025-09-12 fix crash issue [17]
 2025-09-12 cleanup dependencies [18]
 2025-09-12 fix broken link [19]
+2025-09-12 add helper function [20]

@@ -4344,3 +4344,4 @@
 2025-09-12 stabilize build [1]
 2025-09-12 fix build error [2]
 2025-09-12 improve performance [3]
+2025-09-12 adjust validation rules [4]

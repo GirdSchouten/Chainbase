@@ -18475,3 +18475,4 @@
 2025-09-14 17:1:10 - update README [13]
 2025-09-14 13:11:48 - add tests [14]
 2025-09-14 14:2:38 - clean project structure [15]
+2025-09-14 12:58:40 - fix null pointer [16]

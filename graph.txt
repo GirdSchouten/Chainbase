@@ -6966,3 +6966,4 @@
 2025-09-18 update feature [14]
 2025-09-18 cleanup dependencies [15]
 2025-09-18 fix config bug [16]
+2025-09-18 update build script [17]

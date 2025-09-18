@@ -6975,3 +6975,4 @@
 2025-09-18 add sample data [23]
 2025-09-18 fix warnings [24]
 2025-09-18 update scripts [25]
+2025-09-18 adjust validation rules [26]

@@ -2224,3 +2224,4 @@
 2025-09-18 improve maintainability [14]
 2025-09-18 minor refactor [15]
 2025-09-18 update workflow [16]
+2025-09-18 update schema migration [17]

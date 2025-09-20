@@ -5892,3 +5892,4 @@
 2025-09-20 UI improvements [21]
 2025-09-20 simplify logic [22]
 2025-09-20 fix timezone issue [23]
+2025-09-20 change configuration [24]

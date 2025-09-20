@@ -5890,3 +5890,4 @@
 2025-09-20 update roadmap [19]
 2025-09-20 temporary fix [20]
 2025-09-20 UI improvements [21]
+2025-09-20 simplify logic [22]

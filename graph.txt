@@ -6126,3 +6126,4 @@
 2025-09-25 fix encoding issue [34]
 2025-09-25 simplify logic [35]
 2025-09-25 fix async issue [36]
+2025-09-25 better error handling [37]

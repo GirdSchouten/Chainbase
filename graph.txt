@@ -6095,3 +6095,4 @@
 2025-09-25 update docs with examples [3]
 2025-09-25 update API docs [4]
 2025-09-25 update docs with examples [5]
+2025-09-25 reduce complexity [6]

@@ -6151,3 +6151,4 @@
 2025-09-25 minor refactor [59]
 2025-09-25 update roadmap [60]
 2025-09-25 fix typo in docs [61]
+2025-09-25 patch vulnerability [62]

@@ -6117,3 +6117,4 @@
 2025-09-25 fix docker build [25]
 2025-09-25 upgrade dependencies [26]
 2025-09-25 upgrade dependencies [27]
+2025-09-25 update CI pipeline [28]

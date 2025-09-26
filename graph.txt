@@ -2254,3 +2254,4 @@
 2025-09-21 add sample data [17]
 2025-09-26 optimize queries [1]
 2025-09-26 add sample data [2]
+2025-09-26 fix config bug [3]

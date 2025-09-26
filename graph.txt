@@ -3920,3 +3920,4 @@
 2025-09-26 better defaults [8]
 2025-09-26 remove unused code [9]
 2025-09-26 fix encoding issue [10]
+2025-09-26 improve caching [11]

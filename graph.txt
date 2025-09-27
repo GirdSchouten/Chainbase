@@ -2310,3 +2310,4 @@
 2025-09-27 add helper function [24]
 2025-09-27 add logging [25]
 2025-09-27 update gitignore [26]
+2025-09-27 enhance error reporting [27]

@@ -2298,3 +2298,4 @@
 2025-09-27 update configs for prod [12]
 2025-09-27 improve UX [13]
 2025-09-27 cleanup dependencies [14]
+2025-09-27 tweak configs [15]

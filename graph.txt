@@ -7551,3 +7551,4 @@
 2025-09-27 update docs with examples [45]
 2025-09-27 refactor code [46]
 2025-09-27 hotfix applied [47]
+2025-09-27 update API endpoints [48]

@@ -7567,3 +7567,4 @@
 2025-09-27 fix typo in docs [61]
 2025-09-27 update docs with examples [62]
 2025-09-27 fix UI alignment [63]
+2025-09-27 fix misconfiguration [64]

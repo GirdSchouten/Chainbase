@@ -3937,3 +3937,4 @@
 2025-09-28 13:29:52 - fix encoding issue [25]
 2025-09-28 8:49:10 - rollback changes [26]
 2025-09-28 8:57:53 - update comments [27]
+2025-09-28 16:39:17 - improve logging format [28]

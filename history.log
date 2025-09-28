@@ -3933,3 +3933,4 @@
 2025-09-28 14:0:12 - fix crash issue [21]
 2025-09-28 16:55:26 - add unit tests [22]
 2025-09-28 15:33:28 - update configs for prod [23]
+2025-09-28 16:1:6 - update deployment script [24]

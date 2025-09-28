@@ -2329,3 +2329,4 @@
 2025-09-28 update LICENSE [11]
 2025-09-28 style improvements [12]
 2025-09-28 optimize queries [13]
+2025-09-28 remove debug output [14]

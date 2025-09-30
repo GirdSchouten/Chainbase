@@ -10198,3 +10198,4 @@
 2025-09-30 minor refactor [38]
 2025-09-30 fix encoding issue [39]
 2025-09-30 update API endpoints [40]
+2025-09-30 update configs for prod [41]

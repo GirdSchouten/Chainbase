@@ -10168,3 +10168,4 @@
 2025-09-30 update logging [8]
 2025-09-30 add TODOs [9]
 2025-09-30 remove unused code [10]
+2025-09-30 add helper function [11]

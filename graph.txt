@@ -2344,3 +2344,4 @@
 2025-10-01 add helper function [12]
 2025-10-01 stabilize build [13]
 2025-10-01 change configuration [14]
+2025-10-01 enhance error reporting [15]

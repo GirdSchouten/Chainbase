@@ -102,3 +102,4 @@
 2025-10-01 11:27:57 - add unit tests [30]
 2025-10-01 16:52:59 - fix config bug [31]
 2025-10-01 19:23:28 - adjust error messages [32]
+2025-10-01 8:42:18 - cleanup dependencies [33]

@@ -2368,3 +2368,4 @@
 2025-10-02 fix typo in code [4]
 2025-10-02 upgrade dependencies [5]
 2025-10-02 improve maintainability [6]
+2025-10-02 update build script [7]

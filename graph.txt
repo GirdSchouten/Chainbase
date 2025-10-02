@@ -4041,3 +4041,4 @@
 2025-10-02 restructure modules [42]
 2025-10-02 minor refactor [43]
 2025-10-02 improve caching [44]
+2025-10-02 update docs with examples [45]

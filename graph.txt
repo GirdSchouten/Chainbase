@@ -2371,3 +2371,4 @@
 2025-10-02 update build script [7]
 2025-10-02 fix CI errors [8]
 2025-10-02 fix type error [9]
+2025-10-02 typo fix [10]

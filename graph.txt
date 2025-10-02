@@ -4043,3 +4043,4 @@
 2025-10-02 improve caching [44]
 2025-10-02 update docs with examples [45]
 2025-10-02 small refactor [46]
+2025-10-02 enhance error reporting [47]

@@ -4038,3 +4038,4 @@
 2025-10-02 add integration tests [39]
 2025-10-02 tweak configs [40]
 2025-10-02 fix UI alignment [41]
+2025-10-02 restructure modules [42]

@@ -4025,3 +4025,4 @@
 2025-10-02 add unit tests [26]
 2025-10-02 update constants [27]
 2025-10-02 fix warnings [28]
+2025-10-02 adjust validation rules [29]

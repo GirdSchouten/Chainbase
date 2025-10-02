@@ -4044,3 +4044,4 @@
 2025-10-02 update docs with examples [45]
 2025-10-02 small refactor [46]
 2025-10-02 enhance error reporting [47]
+2025-10-02 fix async issue [48]

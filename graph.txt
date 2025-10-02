@@ -2378,3 +2378,4 @@
 2025-10-02 stabilize build [14]
 2025-10-02 update LICENSE [15]
 2025-10-02 fix config bug [16]
+2025-10-02 small refactor [17]

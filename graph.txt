@@ -2380,3 +2380,4 @@
 2025-10-02 fix config bug [16]
 2025-10-02 small refactor [17]
 2025-10-02 fix typo in docs [18]
+2025-10-02 change configuration [19]

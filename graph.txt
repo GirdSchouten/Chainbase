@@ -2392,3 +2392,4 @@
 2025-10-02 reformat code [28]
 2025-10-05 fix encoding issue [1]
 2025-10-05 update documentation [2]
+2025-10-05 update gitignore [3]

@@ -4416,3 +4416,4 @@
 2025-10-05 improve performance [34]
 2025-10-05 fix bug [35]
 2025-10-05 update docs with examples [36]
+2025-10-05 fix null pointer [37]

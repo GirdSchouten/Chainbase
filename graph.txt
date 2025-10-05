@@ -4419,3 +4419,4 @@
 2025-10-05 fix null pointer [37]
 2025-10-05 update roadmap [38]
 2025-10-05 reformat code [39]
+2025-10-05 better error handling [40]

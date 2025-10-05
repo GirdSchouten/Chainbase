@@ -4384,3 +4384,4 @@
 2025-10-05 update gitignore [2]
 2025-10-05 add integration tests [3]
 2025-10-05 update feature [4]
+2025-10-05 fix CI errors [5]

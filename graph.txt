@@ -2397,3 +2397,4 @@
 2025-10-05 UI improvements [5]
 2025-10-05 refactor code [6]
 2025-10-05 remove deprecated code [7]
+2025-10-05 tweak configs [8]

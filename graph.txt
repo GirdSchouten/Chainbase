@@ -4409,3 +4409,4 @@
 2025-10-05 minor refactor [27]
 2025-10-05 add example file [28]
 2025-10-05 update docs with examples [29]
+2025-10-05 improve UX [30]

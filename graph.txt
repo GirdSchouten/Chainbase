@@ -2401,3 +2401,4 @@
 2025-10-05 update API keys [9]
 2025-10-05 fix warnings [10]
 2025-10-05 fix bug [11]
+2025-10-05 improve security [12]

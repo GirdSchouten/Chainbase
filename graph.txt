@@ -9697,3 +9697,4 @@
 2025-10-06 update scripts [16]
 2025-10-06 tweak configs [17]
 2025-10-06 cleanup code [18]
+2025-10-06 improve UX [19]

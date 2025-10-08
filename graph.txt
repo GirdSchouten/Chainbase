@@ -2435,3 +2435,4 @@
 2025-10-08 update gitignore [17]
 2025-10-08 small refactor [18]
 2025-10-08 update headers [19]
+2025-10-08 update docs with examples [20]

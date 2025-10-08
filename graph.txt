@@ -2429,3 +2429,4 @@
 2025-10-08 UI improvements [11]
 2025-10-08 add TODOs [12]
 2025-10-08 fix compatibility [13]
+2025-10-08 add logging [14]

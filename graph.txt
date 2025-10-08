@@ -2438,3 +2438,4 @@
 2025-10-08 update docs with examples [20]
 2025-10-08 fix crash issue [21]
 2025-10-08 improve logging format [22]
+2025-10-08 security patch [23]

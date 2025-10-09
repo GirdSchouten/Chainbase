@@ -8096,3 +8096,4 @@
 2025-10-09 update metadata [20]
 2025-10-09 add integration tests [21]
 2025-10-09 add changelog [22]
+2025-10-09 fix encoding issue [23]

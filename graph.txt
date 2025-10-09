@@ -8111,3 +8111,4 @@
 2025-10-09 fix bug [35]
 2025-10-09 reorganize files [36]
 2025-10-09 update README [37]
+2025-10-09 adjust validation rules [38]

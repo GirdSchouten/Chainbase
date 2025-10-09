@@ -8097,3 +8097,4 @@
 2025-10-09 add integration tests [21]
 2025-10-09 add changelog [22]
 2025-10-09 fix encoding issue [23]
+2025-10-09 add unit tests [24]

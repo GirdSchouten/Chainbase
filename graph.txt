@@ -4328,3 +4328,4 @@
 2025-10-10 fix config bug [33]
 2025-10-10 update constants [34]
 2025-10-10 improve logging format [35]
+2025-10-10 update schema migration [36]

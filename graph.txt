@@ -4321,3 +4321,4 @@
 2025-10-10 add sample data [26]
 2025-10-10 update schema migration [27]
 2025-10-10 update LICENSE [28]
+2025-10-10 clean project structure [29]

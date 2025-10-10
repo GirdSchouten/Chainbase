@@ -4307,3 +4307,4 @@
 2025-10-10 fix encoding issue [12]
 2025-10-10 adjust validation rules [13]
 2025-10-10 improve caching [14]
+2025-10-10 better error handling [15]

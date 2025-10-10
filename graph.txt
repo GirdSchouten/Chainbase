@@ -4304,3 +4304,4 @@
 2025-10-10 update API keys [9]
 2025-10-10 update configs [10]
 2025-10-10 add integration tests [11]
+2025-10-10 fix encoding issue [12]

@@ -2453,3 +2453,4 @@
 2025-10-11 fix typo in docs [4]
 2025-10-11 add helper function [5]
 2025-10-11 add helper function [6]
+2025-10-11 update build script [7]

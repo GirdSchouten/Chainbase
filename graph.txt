@@ -4505,3 +4505,4 @@
 2025-10-11 update README [30]
 2025-10-11 update configs [31]
 2025-10-11 fix permission issue [32]
+2025-10-11 fix misconfiguration [33]

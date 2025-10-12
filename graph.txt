@@ -2460,3 +2460,4 @@
 2025-10-11 reformat code [11]
 2025-10-11 small refactor [12]
 2025-10-11 update database schema [13]
+2025-10-12 fix broken link [1]

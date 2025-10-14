@@ -9893,3 +9893,4 @@
 2025-10-14 remove unused code [12]
 2025-10-14 add unit tests [13]
 2025-10-14 minor tweaks [14]
+2025-10-14 update LICENSE [15]

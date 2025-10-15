@@ -2473,3 +2473,4 @@
 2025-10-15 fix crash issue [1]
 2025-10-15 update gitignore [2]
 2025-10-15 add sample data [3]
+2025-10-15 fix encoding issue [4]

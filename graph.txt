@@ -2478,3 +2478,4 @@
 2025-10-15 fix typo in docs [6]
 2025-10-15 improve security [7]
 2025-10-15 fix broken link [8]
+2025-10-15 add tests [9]

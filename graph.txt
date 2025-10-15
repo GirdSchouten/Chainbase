@@ -2471,3 +2471,4 @@
 2025-10-12 better error handling [9]
 2025-10-12 update configs [10]
 2025-10-15 fix crash issue [1]
+2025-10-15 update gitignore [2]

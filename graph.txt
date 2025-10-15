@@ -9258,3 +9258,4 @@
 2025-10-15 update roadmap [9]
 2025-10-15 add example file [10]
 2025-10-15 update LICENSE [11]
+2025-10-15 enhance logging [12]

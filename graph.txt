@@ -2476,3 +2476,4 @@
 2025-10-15 fix encoding issue [4]
 2025-10-15 update version [5]
 2025-10-15 fix typo in docs [6]
+2025-10-15 improve security [7]

@@ -8439,3 +8439,4 @@
 2025-10-17 fix warnings [35]
 2025-10-17 add unit tests [36]
 2025-10-17 optimize queries [37]
+2025-10-17 fix encoding issue [38]

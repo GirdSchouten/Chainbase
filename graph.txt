@@ -8465,3 +8465,4 @@
 2025-10-17 update scripts [61]
 2025-10-17 hotfix applied [62]
 2025-10-17 fix permission issue [63]
+2025-10-17 rollback changes [64]

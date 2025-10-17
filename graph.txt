@@ -8418,3 +8418,4 @@
 2025-10-17 update gitignore [14]
 2025-10-17 stabilize build [15]
 2025-10-17 improve caching [16]
+2025-10-17 improve performance [17]

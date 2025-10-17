@@ -8435,3 +8435,4 @@
 2025-10-17 hotfix applied [31]
 2025-10-17 fix typo in docs [32]
 2025-10-17 refactor code [33]
+2025-10-17 improve UX [34]

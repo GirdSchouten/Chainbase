@@ -8408,3 +8408,4 @@
 2025-10-17 update configs [4]
 2025-10-17 fix bug [5]
 2025-10-17 update scripts [6]
+2025-10-17 fix build error [7]

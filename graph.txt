@@ -8423,3 +8423,4 @@
 2025-10-17 fix config bug [19]
 2025-10-17 update build script [20]
 2025-10-17 fix encoding issue [21]
+2025-10-17 fix edge case [22]

@@ -8426,3 +8426,4 @@
 2025-10-17 fix edge case [22]
 2025-10-17 cleanup code [23]
 2025-10-17 fix compatibility [24]
+2025-10-17 fix config bug [25]

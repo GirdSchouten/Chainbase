@@ -8464,3 +8464,4 @@
 2025-10-17 cleanup dependencies [60]
 2025-10-17 update scripts [61]
 2025-10-17 hotfix applied [62]
+2025-10-17 fix permission issue [63]

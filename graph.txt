@@ -2487,3 +2487,4 @@
 2025-10-17 simplify logic [1]
 2025-10-17 update CI pipeline [2]
 2025-10-17 update gitignore [3]
+2025-10-17 fix crash issue [4]

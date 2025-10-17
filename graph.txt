@@ -8421,3 +8421,4 @@
 2025-10-17 improve performance [17]
 2025-10-17 temporary fix [18]
 2025-10-17 fix config bug [19]
+2025-10-17 update build script [20]

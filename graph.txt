@@ -2522,3 +2522,4 @@
 2025-10-19 simplify logic [26]
 2025-10-19 update roadmap [27]
 2025-10-19 adjust error messages [28]
+2025-10-19 enhance error reporting [29]

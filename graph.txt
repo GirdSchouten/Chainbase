@@ -2497,3 +2497,4 @@
 2025-10-19 fix permission issue [1]
 2025-10-19 update schema migration [2]
 2025-10-19 fix crash issue [3]
+2025-10-19 improve logging format [4]

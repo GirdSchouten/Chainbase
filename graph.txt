@@ -2494,3 +2494,4 @@
 2025-10-17 remove deprecated code [8]
 2025-10-17 style improvements [9]
 2025-10-17 update gitignore [10]
+2025-10-19 fix permission issue [1]

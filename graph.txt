@@ -2496,3 +2496,4 @@
 2025-10-17 update gitignore [10]
 2025-10-19 fix permission issue [1]
 2025-10-19 update schema migration [2]
+2025-10-19 fix crash issue [3]

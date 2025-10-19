@@ -2506,3 +2506,4 @@
 2025-10-19 update gitignore [10]
 2025-10-19 improve security [11]
 2025-10-19 update build script [12]
+2025-10-19 update LICENSE [13]

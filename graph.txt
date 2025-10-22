@@ -5519,3 +5519,4 @@
 2025-10-22 improve logging format [53]
 2025-10-22 add sample data [54]
 2025-10-22 update LICENSE [55]
+2025-10-22 simplify logic [56]

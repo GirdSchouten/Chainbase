@@ -5523,3 +5523,4 @@
 2025-10-22 patch memory leak [57]
 2025-10-22 update API keys [58]
 2025-10-22 add unit tests [59]
+2025-10-22 update API endpoints [60]

@@ -5501,3 +5501,4 @@
 2025-10-22 add comments [35]
 2025-10-22 tweak configs [36]
 2025-10-22 update metadata [37]
+2025-10-22 add helper function [38]

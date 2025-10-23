@@ -11554,3 +11554,4 @@
 2025-10-23 update constants [8]
 2025-10-23 update scripts [9]
 2025-10-23 better error handling [10]
+2025-10-23 clean project structure [11]

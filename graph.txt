@@ -11551,3 +11551,4 @@
 2025-10-23 update schema migration [5]
 2025-10-23 adjust error messages [6]
 2025-10-23 update comments [7]
+2025-10-23 update constants [8]

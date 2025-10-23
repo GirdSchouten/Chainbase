@@ -11549,3 +11549,4 @@
 2025-10-23 reformat code [3]
 2025-10-23 update LICENSE [4]
 2025-10-23 update schema migration [5]
+2025-10-23 adjust error messages [6]

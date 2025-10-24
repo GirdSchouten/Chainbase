@@ -2559,3 +2559,4 @@
 2025-10-22 update configs for prod [26]
 2025-10-24 add example file [1]
 2025-10-24 experimental changes [2]
+2025-10-24 update build script [3]

@@ -2567,3 +2567,4 @@
 2025-10-24 update docs with examples [8]
 2025-10-24 update feature [9]
 2025-10-24 update API docs [10]
+2025-10-24 patch vulnerability [11]

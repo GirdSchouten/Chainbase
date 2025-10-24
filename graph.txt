@@ -2572,3 +2572,4 @@
 2025-10-24 fix typo in docs [13]
 2025-10-24 update configs for prod [14]
 2025-10-24 update API keys [15]
+2025-10-24 update gitignore [16]

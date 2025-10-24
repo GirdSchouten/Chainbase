@@ -2563,3 +2563,4 @@
 2025-10-24 fix typo in docs [4]
 2025-10-24 add example file [5]
 2025-10-24 fix typo in docs [6]
+2025-10-24 restructure project [7]

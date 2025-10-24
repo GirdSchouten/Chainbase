@@ -4627,3 +4627,4 @@
 2025-10-24 19:42:11 - add fallback [2]
 2025-10-24 19:55:26 - improve caching [3]
 2025-10-24 15:34:43 - fix typo in code [4]
+2025-10-24 15:32:50 - adjust error messages [5]

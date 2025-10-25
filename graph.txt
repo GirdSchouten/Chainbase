@@ -11192,3 +11192,4 @@
 2025-10-25 update configs for prod [37]
 2025-10-25 hotfix applied [38]
 2025-10-25 fix misconfiguration [39]
+2025-10-25 update CI pipeline [40]

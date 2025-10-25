@@ -11164,3 +11164,4 @@
 2025-10-25 fix compatibility [9]
 2025-10-25 fix crash issue [10]
 2025-10-25 improve caching [11]
+2025-10-25 stabilize build [12]

@@ -11191,3 +11191,4 @@
 2025-10-25 adjust validation rules [36]
 2025-10-25 update configs for prod [37]
 2025-10-25 hotfix applied [38]
+2025-10-25 fix misconfiguration [39]

@@ -11153,3 +11153,4 @@
 2025-09-06 add fallback [35]
 2025-09-06 improve UX [36]
 2025-09-06 adjust error messages [37]
+2025-10-25 remove legacy code [1]

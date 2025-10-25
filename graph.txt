@@ -11161,3 +11161,4 @@
 2025-10-25 fix misconfiguration [6]
 2025-10-25 update API keys [7]
 2025-10-25 fix type error [8]
+2025-10-25 fix compatibility [9]

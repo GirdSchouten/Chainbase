@@ -8601,3 +8601,4 @@
 2025-10-26 adjust validation rules [37]
 2025-10-26 add fallback [38]
 2025-10-26 add sample data [39]
+2025-10-26 add integration tests [40]

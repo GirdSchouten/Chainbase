@@ -8588,3 +8588,4 @@
 2025-10-26 add integration tests [24]
 2025-10-26 update constants [25]
 2025-10-26 update schema migration [26]
+2025-10-26 add helper function [27]

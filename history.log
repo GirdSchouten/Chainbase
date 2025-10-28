@@ -15656,3 +15656,4 @@
 2025-10-28 11:21:26 - update configs for prod [42]
 2025-10-28 12:23:44 - add helper function [43]
 2025-10-28 17:49:0 - upgrade dependencies [44]
+2025-10-28 14:18:25 - fix async issue [45]

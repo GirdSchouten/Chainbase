@@ -15654,3 +15654,4 @@
 2025-10-28 18:12:59 - fix crash issue [40]
 2025-10-28 13:55:3 - update schema migration [41]
 2025-10-28 11:21:26 - update configs for prod [42]
+2025-10-28 12:23:44 - add helper function [43]

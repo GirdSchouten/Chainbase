@@ -6836,3 +6836,4 @@
 2025-10-31 initial commit [54]
 2025-10-31 update LICENSE [55]
 2025-10-31 patch vulnerability [56]
+2025-10-31 fix compatibility [57]

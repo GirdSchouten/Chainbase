@@ -6800,3 +6800,4 @@
 2025-10-31 better defaults [18]
 2025-10-31 refactor code [19]
 2025-10-31 reformat code [20]
+2025-10-31 remove legacy code [21]

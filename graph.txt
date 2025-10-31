@@ -2580,3 +2580,4 @@
 2025-10-24 update constants [21]
 2025-10-31 simplify logic [1]
 2025-10-31 add integration tests [2]
+2025-10-31 update deployment script [3]

@@ -6826,3 +6826,4 @@
 2025-10-31 minor refactor [44]
 2025-10-31 adjust validation rules [45]
 2025-10-31 fix warnings [46]
+2025-10-31 clean project structure [47]

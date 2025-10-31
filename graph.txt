@@ -6786,3 +6786,4 @@
 2025-10-31 update API docs [4]
 2025-10-31 restructure project [5]
 2025-10-31 update feature [6]
+2025-10-31 fix crash issue [7]

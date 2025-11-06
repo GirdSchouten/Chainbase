@@ -336,3 +336,4 @@
 2025-11-06 17:15:37 - fix encoding issue [9]
 2025-11-06 16:52:43 - improve logging format [10]
 2025-11-06 10:3:7 - fix typo in code [11]
+2025-11-06 18:51:44 - simplify logic [12]

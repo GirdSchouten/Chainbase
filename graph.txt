@@ -6179,3 +6179,4 @@
 2025-11-06 update LICENSE [23]
 2025-11-06 enhance logging [24]
 2025-11-06 update gitignore [25]
+2025-11-06 update CI pipeline [26]

@@ -6199,3 +6199,4 @@
 2025-11-06 update database schema [43]
 2025-11-06 add fallback [44]
 2025-11-06 typo fix [45]
+2025-11-06 UI improvements [46]

@@ -6172,3 +6172,4 @@
 2025-11-06 remove unused import [16]
 2025-11-06 add unit tests [17]
 2025-11-06 stabilize build [18]
+2025-11-06 adjust validation rules [19]

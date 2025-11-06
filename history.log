@@ -342,3 +342,4 @@
 2025-11-06 13:26:27 - fix crash issue [15]
 2025-11-06 15:35:15 - experimental changes [16]
 2025-11-06 9:43:55 - reformat code [17]
+2025-11-06 19:32:53 - better error handling [18]

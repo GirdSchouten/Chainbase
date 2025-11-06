@@ -6189,3 +6189,4 @@
 2025-11-06 fix permission issue [33]
 2025-11-06 update scripts [34]
 2025-11-06 stabilize build [35]
+2025-11-06 update configs for prod [36]

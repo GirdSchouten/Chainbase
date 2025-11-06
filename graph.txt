@@ -6231,3 +6231,4 @@
 2025-11-06 tweak configs [75]
 2025-11-06 add TODOs [76]
 2025-11-06 fix compatibility [77]
+2025-11-06 update docs with examples [78]

@@ -2611,3 +2611,4 @@
 2025-11-09 reduce complexity [11]
 2025-11-09 update headers [12]
 2025-11-09 fix docker build [13]
+2025-11-09 add helper function [14]

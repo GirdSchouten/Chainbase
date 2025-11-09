@@ -2600,3 +2600,4 @@
 2025-10-31 update roadmap [20]
 2025-11-09 update workflow [1]
 2025-11-09 fix crash issue [2]
+2025-11-09 fix encoding issue [3]

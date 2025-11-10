@@ -8631,3 +8631,4 @@
 2025-10-26 clean project structure [67]
 2025-10-26 update API keys [68]
 2025-11-10 better defaults [1]
+2025-11-10 minor tweaks [2]

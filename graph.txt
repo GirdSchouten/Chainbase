@@ -8667,3 +8667,4 @@
 2025-11-10 fix config bug [35]
 2025-11-10 add example file [36]
 2025-11-10 update build script [37]
+2025-11-10 update API endpoints [38]

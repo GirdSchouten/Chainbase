@@ -8635,3 +8635,4 @@
 2025-11-10 enhance logging [3]
 2025-11-10 update gitignore [4]
 2025-11-10 update dependencies [5]
+2025-11-10 update build script [6]

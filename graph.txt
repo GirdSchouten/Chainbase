@@ -8664,3 +8664,4 @@
 2025-11-10 improve UX [32]
 2025-11-10 improve docs [33]
 2025-11-10 UI improvements [34]
+2025-11-10 fix config bug [35]

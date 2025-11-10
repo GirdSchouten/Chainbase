@@ -8650,3 +8650,4 @@
 2025-11-10 fix config bug [18]
 2025-11-10 merge branch [19]
 2025-11-10 improve maintainability [20]
+2025-11-10 adjust error messages [21]

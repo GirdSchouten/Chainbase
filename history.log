@@ -10476,3 +10476,4 @@
 2025-11-10 17:14:53 - small refactor [33]
 2025-11-10 10:17:53 - restructure modules [34]
 2025-11-10 10:27:39 - add changelog [35]
+2025-11-10 17:59:46 - better error handling [36]

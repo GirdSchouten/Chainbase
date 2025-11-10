@@ -8674,3 +8674,4 @@
 2025-11-10 add unit tests [42]
 2025-11-10 update gitignore [43]
 2025-11-10 remove unused import [44]
+2025-11-10 update configs for prod [45]

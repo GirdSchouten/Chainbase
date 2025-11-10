@@ -10456,3 +10456,4 @@
 2025-11-10 12:17:50 - improve logging format [13]
 2025-11-10 13:52:0 - fix crash issue [14]
 2025-11-10 11:36:5 - add changelog [15]
+2025-11-10 11:15:17 - add fallback [16]

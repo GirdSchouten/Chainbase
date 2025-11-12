@@ -2624,3 +2624,4 @@
 2025-11-09 add TODOs [24]
 2025-11-09 update gitignore [25]
 2025-11-09 remove unused import [26]
+2025-11-12 fix crash issue [1]

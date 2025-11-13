@@ -4111,3 +4111,4 @@
 2025-11-13 minor refactor [36]
 2025-11-13 adjust error messages [37]
 2025-11-13 optimize function [38]
+2025-11-13 better error handling [39]

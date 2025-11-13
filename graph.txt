@@ -4089,3 +4089,4 @@
 2025-11-13 update feature [14]
 2025-11-13 update LICENSE [15]
 2025-11-13 remove debug output [16]
+2025-11-13 simplify logic [17]

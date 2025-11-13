@@ -2636,3 +2636,4 @@
 2025-11-12 minor refactor [10]
 2025-11-12 security patch [11]
 2025-11-12 clean project structure [12]
+2025-11-13 fix docker build [1]

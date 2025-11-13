@@ -4110,3 +4110,4 @@
 2025-11-13 add TODOs [35]
 2025-11-13 minor refactor [36]
 2025-11-13 adjust error messages [37]
+2025-11-13 optimize function [38]

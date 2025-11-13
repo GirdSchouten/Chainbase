@@ -2660,3 +2660,4 @@
 2025-11-13 fix timezone issue [22]
 2025-11-13 add integration tests [23]
 2025-11-13 add fallback [24]
+2025-11-13 fix crash issue [25]

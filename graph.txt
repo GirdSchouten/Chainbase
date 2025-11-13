@@ -4101,3 +4101,4 @@
 2025-11-13 cleanup dependencies [26]
 2025-11-13 tweak configs [27]
 2025-11-13 typo fix [28]
+2025-11-13 update logging [29]

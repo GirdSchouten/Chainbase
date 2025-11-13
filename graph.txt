@@ -4120,3 +4120,4 @@
 2025-11-13 patch vulnerability [45]
 2025-11-13 update configs [46]
 2025-11-13 better error handling [47]
+2025-11-13 fix docker build [48]

@@ -4073,3 +4073,4 @@
 2025-10-02 hotfix applied [74]
 2025-10-02 enhance error reporting [75]
 2025-10-02 remove unused import [76]
+2025-11-13 update configs for prod [1]

@@ -11965,3 +11965,4 @@
 2025-11-14 12:35:16 - remove deprecated code [17]
 2025-11-14 13:45:11 - fix warnings [18]
 2025-11-14 11:24:45 - update API endpoints [19]
+2025-11-14 8:7:3 - fix null pointer [20]

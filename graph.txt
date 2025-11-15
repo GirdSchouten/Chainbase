@@ -7768,3 +7768,4 @@
 2025-11-15 fix typo in docs [22]
 2025-11-15 improve caching [23]
 2025-11-15 add changelog [24]
+2025-11-15 update build script [25]

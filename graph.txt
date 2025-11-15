@@ -7773,3 +7773,4 @@
 2025-11-15 clean project structure [27]
 2025-11-15 fix timezone issue [28]
 2025-11-15 fix build error [29]
+2025-11-15 fix encoding issue [30]

@@ -7765,3 +7765,4 @@
 2025-11-15 fix warnings [19]
 2025-11-15 better error handling [20]
 2025-11-15 remove deprecated code [21]
+2025-11-15 fix typo in docs [22]

@@ -2664,3 +2664,4 @@
 2025-11-13 stabilize build [26]
 2025-11-13 UI improvements [27]
 2025-11-16 update CI pipeline [1]
+2025-11-16 fix warnings [2]

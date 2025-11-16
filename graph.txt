@@ -2673,3 +2673,4 @@
 2025-11-16 improve UX [8]
 2025-11-16 restructure project [9]
 2025-11-16 adjust timeout [10]
+2025-11-16 add fallback [11]

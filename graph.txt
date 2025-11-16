@@ -8183,3 +8183,4 @@
 2025-11-16 fix config bug [22]
 2025-11-16 update workflow [23]
 2025-11-16 add tests [24]
+2025-11-16 fix typo in docs [25]

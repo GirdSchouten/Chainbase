@@ -2671,3 +2671,4 @@
 2025-11-16 fix typo in code [6]
 2025-11-16 update scripts [7]
 2025-11-16 improve UX [8]
+2025-11-16 restructure project [9]

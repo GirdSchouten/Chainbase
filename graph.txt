@@ -2691,3 +2691,4 @@
 2025-11-16 update deployment script [26]
 2025-11-16 add changelog [27]
 2025-11-16 typo fix [28]
+2025-11-16 fix config bug [29]

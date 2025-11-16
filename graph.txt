@@ -8186,3 +8186,4 @@
 2025-11-16 fix typo in docs [25]
 2025-11-16 improve logging format [26]
 2025-11-16 typo fix [27]
+2025-11-16 patch vulnerability [28]

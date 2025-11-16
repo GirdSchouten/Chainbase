@@ -2665,3 +2665,4 @@
 2025-11-13 UI improvements [27]
 2025-11-16 update CI pipeline [1]
 2025-11-16 fix warnings [2]
+2025-11-16 restructure modules [3]

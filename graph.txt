@@ -8176,3 +8176,4 @@
 2025-11-16 update version [15]
 2025-11-16 improve logging format [16]
 2025-11-16 add example file [17]
+2025-11-16 enhance error reporting [18]

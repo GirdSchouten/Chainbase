@@ -8803,3 +8803,4 @@
 2025-11-18 update README [57]
 2025-11-18 fix timezone issue [58]
 2025-11-18 tweak configs [59]
+2025-11-18 improve security [60]

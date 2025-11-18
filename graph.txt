@@ -8812,3 +8812,4 @@
 2025-11-18 add sample data [66]
 2025-11-18 enhance error reporting [67]
 2025-11-18 fix bug [68]
+2025-11-18 add integration tests [69]

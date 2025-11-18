@@ -8751,3 +8751,4 @@
 2025-11-18 add fallback [5]
 2025-11-18 fix typo in docs [6]
 2025-11-18 update logging [7]
+2025-11-18 upgrade dependencies [8]

@@ -8766,3 +8766,4 @@
 2025-11-18 cleanup code [20]
 2025-11-18 optimize function [21]
 2025-11-18 add fallback [22]
+2025-11-18 hotfix applied [23]

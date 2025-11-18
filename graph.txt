@@ -8791,3 +8791,4 @@
 2025-11-18 patch vulnerability [45]
 2025-11-18 minor refactor [46]
 2025-11-18 update version [47]
+2025-11-18 fix typo in docs [48]

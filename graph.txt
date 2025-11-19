@@ -2699,3 +2699,4 @@
 2025-11-19 fix bug [4]
 2025-11-19 add integration tests [5]
 2025-11-19 update dependencies [6]
+2025-11-19 better error handling [7]

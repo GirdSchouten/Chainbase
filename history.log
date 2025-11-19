@@ -1482,3 +1482,4 @@
 2025-11-19 8:16:9 - restructure modules [27]
 2025-11-19 14:2:3 - update configs for prod [28]
 2025-11-19 17:20:10 - better error handling [29]
+2025-11-19 8:23:57 - add integration tests [30]

@@ -2704,3 +2704,4 @@
 2025-11-19 update dependencies [9]
 2025-11-19 temporary fix [10]
 2025-11-19 small refactor [11]
+2025-11-19 update gitignore [12]

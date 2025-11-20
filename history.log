@@ -18115,3 +18115,4 @@
 2025-11-20 16:14:57 - add integration tests [13]
 2025-11-20 18:33:20 - fix docker build [14]
 2025-11-20 12:0:10 - fix docker build [15]
+2025-11-20 18:8:4 - update configs for prod [16]

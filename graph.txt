@@ -2712,3 +2712,4 @@
 2025-11-20 update constants [1]
 2025-11-20 remove test code [2]
 2025-11-20 enhance logging [3]
+2025-11-20 fix null pointer [4]

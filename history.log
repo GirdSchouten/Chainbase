@@ -8937,3 +8937,4 @@
 2025-11-21 17:23:16 - remove debug output [11]
 2025-11-21 9:27:25 - add tests [12]
 2025-11-21 13:10:29 - fix warnings [13]
+2025-11-21 11:50:17 - simplify logic [14]

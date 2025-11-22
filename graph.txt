@@ -2764,3 +2764,4 @@
 2025-11-22 fix warnings [22]
 2025-11-22 rollback changes [23]
 2025-11-22 fix CI errors [24]
+2025-11-22 update LICENSE [25]

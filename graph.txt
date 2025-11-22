@@ -2768,3 +2768,4 @@
 2025-11-22 add changelog [26]
 2025-11-22 refactor tests [27]
 2025-11-22 update LICENSE [28]
+2025-11-22 fix UI alignment [29]

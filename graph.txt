@@ -2749,3 +2749,4 @@
 2025-11-22 fix edge case [7]
 2025-11-22 fix CI errors [8]
 2025-11-22 fix typo in docs [9]
+2025-11-22 fix UI alignment [10]

@@ -4241,3 +4241,4 @@
 2025-11-27 improve performance [5]
 2025-11-27 cleanup dependencies [6]
 2025-11-27 add sample data [7]
+2025-11-27 improve UX [8]

@@ -4235,3 +4235,4 @@
 2025-09-09 update metadata [37]
 2025-09-09 fix crash issue [38]
 2025-11-27 add changelog [1]
+2025-11-27 update deployment script [2]

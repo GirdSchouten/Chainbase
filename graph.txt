@@ -4272,3 +4272,4 @@
 2025-11-27 restructure modules [36]
 2025-11-27 remove legacy code [37]
 2025-11-27 better defaults [38]
+2025-11-27 rollback changes [39]

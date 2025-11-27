@@ -4280,3 +4280,4 @@
 2025-11-27 fix typo in docs [44]
 2025-11-27 remove deprecated code [45]
 2025-11-27 remove deprecated code [46]
+2025-11-27 update database schema [47]

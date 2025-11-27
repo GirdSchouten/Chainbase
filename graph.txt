@@ -4292,3 +4292,4 @@
 2025-11-27 update logging [56]
 2025-11-27 update gitignore [57]
 2025-11-27 refactor tests [58]
+2025-11-27 update docs with examples [59]

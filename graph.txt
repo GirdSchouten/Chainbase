@@ -4283,3 +4283,4 @@
 2025-11-27 update database schema [47]
 2025-11-27 tweak configs [48]
 2025-11-27 update CI pipeline [49]
+2025-11-27 fix crash issue [50]

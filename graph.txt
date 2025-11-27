@@ -4237,3 +4237,4 @@
 2025-11-27 add changelog [1]
 2025-11-27 update deployment script [2]
 2025-11-27 update API keys [3]
+2025-11-27 fix broken link [4]

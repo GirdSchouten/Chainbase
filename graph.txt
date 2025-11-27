@@ -4254,3 +4254,4 @@
 2025-11-27 update deployment script [18]
 2025-11-27 clean project structure [19]
 2025-11-27 update LICENSE [20]
+2025-11-27 improve security [21]

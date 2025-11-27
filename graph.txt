@@ -2785,3 +2785,4 @@
 2025-11-27 improve UX [8]
 2025-11-27 optimize function [9]
 2025-11-27 fix encoding issue [10]
+2025-11-27 fix compatibility [11]

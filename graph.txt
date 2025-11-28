@@ -2801,3 +2801,4 @@
 2025-11-28 remove deprecated code [12]
 2025-11-28 reorganize files [13]
 2025-11-28 upgrade dependencies [14]
+2025-11-28 enhance logging [15]

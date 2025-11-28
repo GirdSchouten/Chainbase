@@ -2815,3 +2815,4 @@
 2025-11-28 fix build error [26]
 2025-11-28 fix typo in code [27]
 2025-11-28 update gitignore [28]
+2025-11-28 update docs with examples [29]

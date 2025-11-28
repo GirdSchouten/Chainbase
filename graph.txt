@@ -2802,3 +2802,4 @@
 2025-11-28 reorganize files [13]
 2025-11-28 upgrade dependencies [14]
 2025-11-28 enhance logging [15]
+2025-11-28 better error handling [16]

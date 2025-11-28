@@ -2795,3 +2795,4 @@
 2025-11-28 upgrade dependencies [6]
 2025-11-28 style improvements [7]
 2025-11-28 update gitignore [8]
+2025-11-28 restructure project [9]

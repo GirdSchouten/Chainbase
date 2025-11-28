@@ -2789,3 +2789,4 @@
 2025-11-27 minor refactor [12]
 2025-11-28 fix encoding issue [1]
 2025-11-28 add helper function [2]
+2025-11-28 upgrade dependencies [3]

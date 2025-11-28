@@ -2797,3 +2797,4 @@
 2025-11-28 update gitignore [8]
 2025-11-28 restructure project [9]
 2025-11-28 fix timezone issue [10]
+2025-11-28 update build script [11]

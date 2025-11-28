@@ -2804,3 +2804,4 @@
 2025-11-28 enhance logging [15]
 2025-11-28 better error handling [16]
 2025-11-28 add tests [17]
+2025-11-28 add fallback [18]

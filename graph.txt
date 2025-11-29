@@ -2824,3 +2824,4 @@
 2025-11-29 rollback changes [6]
 2025-11-29 upgrade dependencies [7]
 2025-11-29 better defaults [8]
+2025-11-29 fix typo in docs [9]

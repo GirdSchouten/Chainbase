@@ -7117,3 +7117,4 @@
 2025-11-29 temporary fix [17]
 2025-11-29 enhance logging [18]
 2025-11-29 add changelog [19]
+2025-11-29 fix crash issue [20]

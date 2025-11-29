@@ -2839,3 +2839,4 @@
 2025-11-29 add logging [21]
 2025-11-29 add sample data [22]
 2025-11-29 add TODOs [23]
+2025-11-29 simplify logic [24]

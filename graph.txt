@@ -2841,3 +2841,4 @@
 2025-11-29 add TODOs [23]
 2025-11-29 simplify logic [24]
 2025-11-29 reorganize files [25]
+2025-11-29 update database schema [26]

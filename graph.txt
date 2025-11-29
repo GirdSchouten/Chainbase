@@ -7107,3 +7107,4 @@
 2025-11-29 minor refactor [7]
 2025-11-29 update schema migration [8]
 2025-11-29 adjust timeout [9]
+2025-11-29 improve logging format [10]

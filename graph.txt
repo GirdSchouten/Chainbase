@@ -7315,3 +7315,4 @@
 2025-11-30 update LICENSE [36]
 2025-11-30 add tests [37]
 2025-11-30 update configs for prod [38]
+2025-11-30 improve security [39]

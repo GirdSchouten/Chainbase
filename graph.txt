@@ -7287,3 +7287,4 @@
 2025-11-30 restructure modules [8]
 2025-11-30 stabilize build [9]
 2025-11-30 typo fix [10]
+2025-11-30 patch memory leak [11]

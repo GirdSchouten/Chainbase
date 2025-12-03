@@ -2872,3 +2872,4 @@
 2025-12-03 add example file [8]
 2025-12-03 enhance error reporting [9]
 2025-12-03 update feature [10]
+2025-12-03 add integration tests [11]

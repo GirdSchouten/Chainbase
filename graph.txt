@@ -2862,3 +2862,4 @@
 2025-11-30 hotfix applied [8]
 2025-11-30 adjust error messages [9]
 2025-11-30 fix crash issue [10]
+2025-12-03 reformat code [1]

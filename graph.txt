@@ -11817,3 +11817,4 @@
 2025-12-04 fix merge conflicts [3]
 2025-12-04 fix timezone issue [4]
 2025-12-04 cleanup code [5]
+2025-12-04 update docs with examples [6]

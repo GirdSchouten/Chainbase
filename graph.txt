@@ -11839,3 +11839,4 @@
 2025-12-04 experimental changes [25]
 2025-12-04 fix config bug [26]
 2025-12-04 adjust validation rules [27]
+2025-12-04 clean project structure [28]

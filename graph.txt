@@ -11869,3 +11869,4 @@
 2025-12-04 add TODOs [55]
 2025-12-04 update dependencies [56]
 2025-12-04 fix broken link [57]
+2025-12-04 change configuration [58]

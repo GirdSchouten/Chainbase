@@ -6680,3 +6680,4 @@
 2025-12-06 improve logging format [22]
 2025-12-06 update headers [23]
 2025-12-06 better error handling [24]
+2025-12-06 change configuration [25]

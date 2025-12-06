@@ -2912,3 +2912,4 @@
 2025-12-06 fix docker build [15]
 2025-12-06 add logging [16]
 2025-12-06 update build script [17]
+2025-12-06 stabilize build [18]

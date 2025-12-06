@@ -6691,3 +6691,4 @@
 2025-12-06 fix config bug [33]
 2025-12-06 cleanup dependencies [34]
 2025-12-06 update API docs [35]
+2025-12-06 update gitignore [36]

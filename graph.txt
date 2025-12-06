@@ -6660,3 +6660,4 @@
 2025-12-06 fix merge conflicts [2]
 2025-12-06 fix compatibility [3]
 2025-12-06 update database schema [4]
+2025-12-06 fix async issue [5]

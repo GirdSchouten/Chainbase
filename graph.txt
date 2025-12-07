@@ -9986,3 +9986,4 @@
 2025-12-07 fix warnings [13]
 2025-12-07 update LICENSE [14]
 2025-12-07 fix type error [15]
+2025-12-07 better error handling [16]

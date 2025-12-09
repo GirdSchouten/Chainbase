@@ -7372,3 +7372,4 @@
 2025-12-09 fix typo in docs [7]
 2025-12-09 cleanup code [8]
 2025-12-09 update LICENSE [9]
+2025-12-09 change configuration [10]

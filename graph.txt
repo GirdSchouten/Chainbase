@@ -7389,3 +7389,4 @@
 2025-12-09 improve docs [24]
 2025-12-09 add helper function [25]
 2025-12-09 rollback changes [26]
+2025-12-09 security patch [27]

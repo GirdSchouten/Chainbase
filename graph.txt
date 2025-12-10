@@ -2949,3 +2949,4 @@
 2025-12-10 improve caching [11]
 2025-12-10 fix async issue [12]
 2025-12-10 cleanup dependencies [13]
+2025-12-10 add integration tests [14]

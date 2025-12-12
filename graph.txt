@@ -3987,3 +3987,4 @@
 2025-12-12 adjust validation rules [26]
 2025-12-12 update logging [27]
 2025-12-12 cleanup dependencies [28]
+2025-12-12 update configs for prod [29]

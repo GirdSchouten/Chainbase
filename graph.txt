@@ -2991,3 +2991,4 @@
 2025-12-12 add integration tests [37]
 2025-12-12 simplify logic [38]
 2025-12-12 update README [39]
+2025-12-12 fix CI errors [40]

@@ -2975,3 +2975,4 @@
 2025-12-12 remove legacy code [21]
 2025-12-12 security patch [22]
 2025-12-12 hotfix applied [23]
+2025-12-12 upgrade dependencies [24]

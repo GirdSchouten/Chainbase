@@ -2989,3 +2989,4 @@
 2025-12-12 fix crash issue [35]
 2025-12-12 enhance logging [36]
 2025-12-12 add integration tests [37]
+2025-12-12 simplify logic [38]

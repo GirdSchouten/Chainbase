@@ -2967,3 +2967,4 @@
 2025-12-12 initial commit [13]
 2025-12-12 improve logging format [14]
 2025-12-12 update roadmap [15]
+2025-12-12 add tests [16]

@@ -2952,3 +2952,4 @@
 2025-12-10 add integration tests [14]
 2025-12-10 stabilize build [15]
 2025-12-10 cleanup code [16]
+2025-12-12 fix config bug [1]

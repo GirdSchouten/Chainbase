@@ -7636,3 +7636,4 @@
 2025-12-13 update README [9]
 2025-12-13 update headers [10]
 2025-12-13 upgrade dependencies [11]
+2025-12-13 fix encoding issue [12]

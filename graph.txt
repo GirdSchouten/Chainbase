@@ -7648,3 +7648,4 @@
 2025-12-13 update version [21]
 2025-12-13 fix warnings [22]
 2025-12-13 update README [23]
+2025-12-13 clean project structure [24]

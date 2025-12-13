@@ -7631,3 +7631,4 @@
 2025-12-13 better error handling [4]
 2025-12-13 fix typo in docs [5]
 2025-12-13 UI improvements [6]
+2025-12-13 fix async issue [7]

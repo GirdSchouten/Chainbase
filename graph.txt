@@ -7666,3 +7666,4 @@
 2025-12-13 update configs for prod [39]
 2025-12-13 change configuration [40]
 2025-12-13 update docs with examples [41]
+2025-12-13 restructure project [42]

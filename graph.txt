@@ -2994,3 +2994,4 @@
 2025-12-12 fix CI errors [40]
 2025-12-14 patch vulnerability [1]
 2025-12-14 improve UX [2]
+2025-12-14 update build script [3]

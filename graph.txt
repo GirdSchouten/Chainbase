@@ -10411,3 +10411,4 @@
 2025-12-19 fix UI alignment [60]
 2025-12-19 hotfix applied [61]
 2025-12-19 update scripts [62]
+2025-12-19 remove deprecated code [63]

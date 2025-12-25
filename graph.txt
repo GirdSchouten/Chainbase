@@ -5564,3 +5564,4 @@
 2025-12-25 better error handling [36]
 2025-12-25 fix config bug [37]
 2025-12-25 add helper function [38]
+2025-12-25 update docs with examples [39]

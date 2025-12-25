@@ -5545,3 +5545,4 @@
 2025-12-25 upgrade dependencies [17]
 2025-12-25 add logging [18]
 2025-12-25 adjust validation rules [19]
+2025-12-25 update README [20]

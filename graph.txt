@@ -5566,3 +5566,4 @@
 2025-12-25 add helper function [38]
 2025-12-25 update docs with examples [39]
 2025-12-25 fix misconfiguration [40]
+2025-12-25 minor refactor [41]

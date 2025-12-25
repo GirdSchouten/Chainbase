@@ -5574,3 +5574,4 @@
 2025-12-25 reorganize files [46]
 2025-12-25 better error handling [47]
 2025-12-25 update docs with examples [48]
+2025-12-25 update database schema [49]

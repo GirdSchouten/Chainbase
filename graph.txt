@@ -4845,3 +4845,4 @@
 2025-12-26 fix encoding issue [27]
 2025-12-26 add logging [28]
 2025-12-26 update docs with examples [29]
+2025-12-26 remove deprecated code [30]

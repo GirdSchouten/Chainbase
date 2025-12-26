@@ -1860,3 +1860,4 @@
 2025-12-26 12:7:36 - update API docs [21]
 2025-12-26 12:47:29 - improve docs [22]
 2025-12-26 14:45:56 - simplify logic [23]
+2025-12-26 8:58:33 - better error handling [24]

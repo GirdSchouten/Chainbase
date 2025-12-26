@@ -3084,3 +3084,4 @@
 2025-12-26 optimize function [3]
 2025-12-26 update schema migration [4]
 2025-12-26 update LICENSE [5]
+2025-12-26 fix config bug [6]

@@ -4873,3 +4873,4 @@
 2025-12-26 rollback changes [55]
 2025-12-26 security patch [56]
 2025-12-26 add tests [57]
+2025-12-26 add helper function [58]

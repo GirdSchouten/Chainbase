@@ -4843,3 +4843,4 @@
 2025-12-26 cleanup dependencies [25]
 2025-12-26 update LICENSE [26]
 2025-12-26 fix encoding issue [27]
+2025-12-26 add logging [28]

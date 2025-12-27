@@ -17101,3 +17101,4 @@
 2025-12-27 15:48:50 - update configs for prod [7]
 2025-12-27 19:19:32 - tweak configs [8]
 2025-12-27 19:6:43 - fix docker build [9]
+2025-12-27 8:48:1 - fix permission issue [10]

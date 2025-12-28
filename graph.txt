@@ -4440,3 +4440,4 @@
 2025-12-28 adjust validation rules [15]
 2025-12-28 temporary fix [16]
 2025-12-28 add tests [17]
+2025-12-28 minor refactor [18]

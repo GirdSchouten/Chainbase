@@ -3096,3 +3096,4 @@
 2026-01-03 fix typo in docs [2]
 2026-01-03 rollback changes [3]
 2026-01-03 upgrade dependencies [4]
+2026-01-03 improve logging format [5]

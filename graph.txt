@@ -3104,3 +3104,4 @@
 2026-01-03 fix config bug [10]
 2026-01-03 upgrade dependencies [11]
 2026-01-03 minor changes [12]
+2026-01-03 clean project structure [13]

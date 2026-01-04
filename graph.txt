@@ -3120,3 +3120,4 @@
 2026-01-04 style improvements [10]
 2026-01-04 upgrade dependencies [11]
 2026-01-04 upgrade dependencies [12]
+2026-01-04 clean project structure [13]

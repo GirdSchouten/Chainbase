@@ -3132,3 +3132,4 @@
 2026-01-04 update README [22]
 2026-01-04 security patch [23]
 2026-01-04 update API docs [24]
+2026-01-04 fix config bug [25]

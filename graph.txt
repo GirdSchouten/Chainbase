@@ -3112,3 +3112,4 @@
 2026-01-04 update configs for prod [2]
 2026-01-04 fix misconfiguration [3]
 2026-01-04 fix null pointer [4]
+2026-01-04 adjust validation rules [5]

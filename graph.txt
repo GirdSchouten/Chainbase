@@ -3192,3 +3192,4 @@
 2026-01-15 update headers [22]
 2026-01-15 fix edge case [23]
 2026-01-15 fix typo in docs [24]
+2026-01-15 add fallback [25]

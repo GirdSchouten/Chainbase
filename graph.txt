@@ -3195,3 +3195,4 @@
 2026-01-15 add fallback [25]
 2026-01-15 add tests [26]
 2026-01-15 fix broken link [27]
+2026-01-15 add logging [28]

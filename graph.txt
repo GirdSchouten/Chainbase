@@ -3221,3 +3221,4 @@
 2026-01-16 minor refactor [18]
 2026-01-16 better error handling [19]
 2026-01-16 fix typo in docs [20]
+2026-01-16 improve security [21]

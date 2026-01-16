@@ -3220,3 +3220,4 @@
 2026-01-16 change configuration [17]
 2026-01-16 minor refactor [18]
 2026-01-16 better error handling [19]
+2026-01-16 fix typo in docs [20]

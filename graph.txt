@@ -3203,3 +3203,4 @@
 2026-01-15 add fallback [33]
 2026-01-16 add integration tests [1]
 2026-01-16 security patch [2]
+2026-01-16 enhance error reporting [3]

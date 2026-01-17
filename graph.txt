@@ -3234,3 +3234,4 @@
 2026-01-17 improve UX [5]
 2026-01-17 UI improvements [6]
 2026-01-17 fix edge case [7]
+2026-01-17 fix encoding issue [8]

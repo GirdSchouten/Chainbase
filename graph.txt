@@ -3280,3 +3280,4 @@
 2026-01-22 minor refactor [14]
 2026-01-22 patch memory leak [15]
 2026-01-22 adjust timeout [16]
+2026-01-22 fix typo in docs [17]

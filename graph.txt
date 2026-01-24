@@ -3296,3 +3296,4 @@
 2026-01-22 reduce complexity [30]
 2026-01-22 fix encoding issue [31]
 2026-01-22 improve logging format [32]
+2026-01-24 better error handling [1]

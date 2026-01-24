@@ -3307,3 +3307,4 @@
 2026-01-24 fix config bug [9]
 2026-01-24 refactor tests [10]
 2026-01-24 better error handling [11]
+2026-01-24 reduce complexity [12]

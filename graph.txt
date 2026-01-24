@@ -3306,3 +3306,4 @@
 2026-01-24 update API keys [8]
 2026-01-24 fix config bug [9]
 2026-01-24 refactor tests [10]
+2026-01-24 better error handling [11]

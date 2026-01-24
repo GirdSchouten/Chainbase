@@ -3319,3 +3319,4 @@
 2026-01-24 upgrade dependencies [21]
 2026-01-24 simplify logic [22]
 2026-01-24 fix typo in docs [23]
+2026-01-24 fix encoding issue [24]

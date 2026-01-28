@@ -3328,3 +3328,4 @@
 2026-01-28 add tests [1]
 2026-01-28 tweak configs [2]
 2026-01-28 experimental changes [3]
+2026-01-28 add logging [4]

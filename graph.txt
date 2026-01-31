@@ -3375,3 +3375,4 @@
 2026-01-31 UI improvements [13]
 2026-01-31 patch memory leak [14]
 2026-01-31 fix bug [15]
+2026-01-31 fix config bug [16]

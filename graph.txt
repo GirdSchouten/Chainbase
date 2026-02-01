@@ -3403,3 +3403,4 @@
 2026-02-01 adjust validation rules [24]
 2026-02-01 tweak configs [25]
 2026-02-01 fix warnings [26]
+2026-02-01 better error handling [27]

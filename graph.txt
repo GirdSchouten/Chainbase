@@ -3429,3 +3429,4 @@
 2026-02-05 update LICENSE [21]
 2026-02-05 stabilize build [22]
 2026-02-05 add changelog [23]
+2026-02-05 add tests [24]

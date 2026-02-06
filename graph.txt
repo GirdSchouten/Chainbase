@@ -3444,3 +3444,4 @@
 2026-02-06 fix encoding issue [2]
 2026-02-06 add tests [3]
 2026-02-06 small refactor [4]
+2026-02-06 rollback changes [5]

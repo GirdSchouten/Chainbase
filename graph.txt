@@ -3470,3 +3470,4 @@
 2026-02-11 fix typo in docs [9]
 2026-02-11 fix type error [10]
 2026-02-11 fix edge case [11]
+2026-02-11 update docs with examples [12]

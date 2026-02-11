@@ -3465,3 +3465,4 @@
 2026-02-11 add tests [4]
 2026-02-11 update schema migration [5]
 2026-02-11 improve logging format [6]
+2026-02-11 adjust error messages [7]

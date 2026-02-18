@@ -3522,3 +3522,4 @@
 2026-02-18 improve logging format [9]
 2026-02-18 better error handling [10]
 2026-02-18 update database schema [11]
+2026-02-18 update API docs [12]

@@ -3519,3 +3519,4 @@
 2026-02-18 hotfix applied [6]
 2026-02-18 patch memory leak [7]
 2026-02-18 UI improvements [8]
+2026-02-18 improve logging format [9]

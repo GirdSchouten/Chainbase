@@ -3561,3 +3561,4 @@
 2026-02-20 update API keys [21]
 2026-02-20 update build script [22]
 2026-02-20 fix misconfiguration [23]
+2026-02-20 fix docker build [24]

@@ -3560,3 +3560,4 @@
 2026-02-20 upgrade dependencies [20]
 2026-02-20 update API keys [21]
 2026-02-20 update build script [22]
+2026-02-20 fix misconfiguration [23]

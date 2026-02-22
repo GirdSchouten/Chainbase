@@ -3565,3 +3565,4 @@
 2026-02-20 improve security [25]
 2026-02-20 fix build error [26]
 2026-02-20 update README [27]
+2026-02-22 update build script [1]

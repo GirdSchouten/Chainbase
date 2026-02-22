@@ -3572,3 +3572,4 @@
 2026-02-22 fix config bug [5]
 2026-02-22 minor tweaks [6]
 2026-02-22 add tests [7]
+2026-02-22 stabilize build [8]

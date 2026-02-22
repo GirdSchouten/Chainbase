@@ -3573,3 +3573,4 @@
 2026-02-22 minor tweaks [6]
 2026-02-22 add tests [7]
 2026-02-22 stabilize build [8]
+2026-02-22 optimize function [9]

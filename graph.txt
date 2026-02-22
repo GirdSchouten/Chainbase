@@ -3569,3 +3569,4 @@
 2026-02-22 fix compatibility [2]
 2026-02-22 add example file [3]
 2026-02-22 remove test code [4]
+2026-02-22 fix config bug [5]

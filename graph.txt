@@ -3593,3 +3593,4 @@
 2026-02-27 patch vulnerability [6]
 2026-02-27 remove debug output [7]
 2026-02-27 reorganize files [8]
+2026-02-27 adjust error messages [9]

@@ -3596,3 +3596,4 @@
 2026-02-27 adjust error messages [9]
 2026-02-27 small refactor [10]
 2026-02-27 fix edge case [11]
+2026-02-27 reduce complexity [12]

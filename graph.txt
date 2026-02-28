@@ -3612,3 +3612,4 @@
 2026-02-28 optimize function [10]
 2026-02-28 simplify logic [11]
 2026-02-28 update LICENSE [12]
+2026-02-28 update docs with examples [13]

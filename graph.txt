@@ -3627,3 +3627,4 @@
 2026-03-01 update roadmap [9]
 2026-03-01 update docs with examples [10]
 2026-03-01 merge branch [11]
+2026-03-01 enhance error reporting [12]

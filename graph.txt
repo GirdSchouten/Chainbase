@@ -3672,3 +3672,4 @@
 2026-03-06 fix misconfiguration [7]
 2026-03-06 update docs with examples [8]
 2026-03-06 fix null pointer [9]
+2026-03-06 add helper function [10]

@@ -3670,3 +3670,4 @@
 2026-03-06 add helper function [5]
 2026-03-06 reorganize files [6]
 2026-03-06 fix misconfiguration [7]
+2026-03-06 update docs with examples [8]

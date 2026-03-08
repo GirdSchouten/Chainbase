@@ -3683,3 +3683,4 @@
 2026-03-06 fix encoding issue [18]
 2026-03-06 fix warnings [19]
 2026-03-06 update version [20]
+2026-03-08 cleanup dependencies [1]
